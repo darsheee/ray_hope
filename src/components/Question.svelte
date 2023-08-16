@@ -1,12 +1,15 @@
 <script lang="ts">
-  import type { Question } from "../types/Quiz";
+  import { browser } from "$app/environment";
+  import type { Question, Quiz } from "../types/Quiz";
 
-  let data: Question;
+  let data: Question & { quiz: Quiz };
   export { data as question };
 
   export let id: string;
   export let showAnswer: boolean = false;
-  let { question, number, choices, correct: correctChoice } = data;
+  export let displayNumber: number;
+
+  let { quiz, question, choices, number, correct: correctChoice } = data;
 
   export let selection: number | undefined = undefined;
   export let disabled = false;
@@ -30,9 +33,13 @@
       }
     }
   };
+
+  $: if (browser && selection) {
+    localStorage.setItem(`webquiz_${quiz.id}_${number}`, selection.toString());
+  }
 </script>
 
-<div class="mb-8 mt-2">
+<div class="mb-8 mt-2 break-inside-avoid">
   {#if showAnswer}
     {#if selection === undefined}
       <p class="font-bold text-sky-800 dark:text-sky-400">Not answered</p>
@@ -42,7 +49,9 @@
       <p class="font-bold text-red-800 dark:text-red-400">Incorrect</p>
     {/if}
   {/if}
-  <h2 class="mb-1 font-semibold"><span class="font-normal">{number}. </span>{question}</h2>
+  <h2 class="mb-1 font-medium">
+    <span class="font-normal">{displayNumber}. </span>{question}
+  </h2>
 
   {#each choices as choice, index}
     <label class="my-2 flex gap-1">
@@ -54,7 +63,8 @@
           ? 'text-gray-600'
           : 'text-lime-600 focus:ring-2 focus:ring-lime-500'}"
         bind:group={selection}
-        {disabled} />
+        {disabled}
+      />
       <p class="-mt-1.5 px-1 {getClassName(index)}">
         {choice}
       </p>

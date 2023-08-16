@@ -1,5 +1,7 @@
 <script lang="ts">
   import groupBy from "just-group-by";
+  import { onMount } from "svelte";
+  import { Confetti } from "svelte-confetti";
   import Button from "../../../components/Button.svelte";
   import Question from "../../../components/Question.svelte";
   import Scores from "../../../components/Scores.svelte";
@@ -9,7 +11,21 @@
   export let data: PageData;
 
   let { collection, quizzes } = data;
-  let questions = quizzes.flatMap((it) => it.questions);
+  let questions = quizzes.flatMap((it) =>
+    it.questions.map((question) => ({ ...question, quiz: it }))
+  );
+  let recoveredAnswers = false;
+
+  onMount(() => {
+    for (let i = 0; i < questions.length; i++) {
+      const question = questions[i];
+      const selection = localStorage.getItem(`webquiz_${question.quiz.id}_${question.number}`);
+      if (selection !== null) {
+        selections[i] = parseInt(selection);
+        recoveredAnswers = true;
+      }
+    }
+  });
 
   let selections: (number | undefined)[] = [];
   let showAnswers = false;
@@ -40,7 +56,9 @@
   }
 
   $: shouldShow = (question: QuestionType, index: number) => {
-    if (selections[index] === undefined) {
+    if (!showAnswers) {
+      return true;
+    } else if (selections[index] === undefined) {
       return shownGroups.includes("Unanswered");
     } else if (selections[index] !== question.correct) {
       return shownGroups.includes("Incorrect");
@@ -48,27 +66,94 @@
       return shownGroups.includes("Correct");
     }
   };
+
+  function shouldShowConfetti() {
+    if (!showAnswers) {
+      return false;
+    }
+    for (let i = 0; i < questions.length; i++) {
+      if (selections[i] !== questions[i].correct) {
+        return false;
+      }
+    }
+    return true;
+  }
+
+  function resetQuiz() {
+    selections.forEach((selection, index) => {
+      if (selection) {
+        localStorage.removeItem(`webquiz_${questions[index].quiz.id}_${questions[index].number}`);
+      }
+    });
+    selections = [];
+  }
+
+  let showConfetti = false;
 </script>
 
-<main class="mx-auto max-w-3xl">
+{#if showConfetti}
+  <div
+    class="pointer-events-none fixed inset-0 -top-4 flex h-screen w-screen justify-center overflow-hidden"
+  >
+    <Confetti
+      x={[-5, 5]}
+      y={[0, 0.1]}
+      delay={[0, 8000]}
+      duration={5000}
+      amount={500}
+      fallDistance="100vh"
+    />
+  </div>
+{/if}
+
+<main class="mx-auto max-w-prose">
   <a href="/" class="mb-2 block font-medium underline print:hidden">&larr; Back Home</a>
   <h1 class="text-3xl font-bold">
     {quizName}
   </h1>
+  <div class="hidden break-before-avoid opacity-75 print:block">
+    <p>
+      WebQuiz: a project by <a href="https://github.com/FluxCapacitor2/"
+        ><img
+          src="https://avatars.githubusercontent.com/u/31071265?v=4"
+          width={16}
+          height={16}
+          alt=""
+          class="inline"
+        />
+        FluxCapacitor2</a
+      >
+    </p>
+    <p class="underline">https://apes-web-quiz.vercel.app/</p>
+  </div>
   <p class="mb-8">{questions.length} questions</p>
+
+  {#if recoveredAnswers}
+    <p>
+      ✅ Progress restored from a previous session. <button
+        class="font-medium underline"
+        on:click={() => {
+          resetQuiz();
+          recoveredAnswers = false;
+        }}>Reset answers.</button
+      >
+    </p>
+  {/if}
 
   {#if showAnswers}
     <Scores {grouped}>
       <Button
         on:click={() => {
           showAnswers = false;
-        }}>Hide Answers</Button>
+        }}>Hide Answers</Button
+      >
       <Button
         on:click={() => {
-          selections = [];
+          resetQuiz();
           showAnswers = false;
           setTimeout(() => scrollToTop());
-        }}>Reset Quiz</Button>
+        }}>Reset Quiz</Button
+      >
     </Scores>
   {/if}
 
@@ -82,33 +167,44 @@
               type="checkbox"
               name="showQuestionType"
               value={name}
-              bind:group={shownGroups} />{name}</label
+              bind:group={shownGroups}
+            />{name}</label
           >{/if}
       {/each}
     </div>
   {/if}
+
   {#each questions as question, index}
     {#if shouldShow(question, index)}
       <Question
-        question={{ ...question, number: index + 1 }}
+        {question}
+        displayNumber={index + 1}
         id="question_{index}"
         bind:selection={selections[index]}
         showAnswer={showAnswers}
-        disabled={showAnswers} />
+        disabled={showAnswers}
+      />
     {/if}
   {/each}
 
-  <div class="flex items-center justify-end gap-4 print:hidden">
-    <a href="/" class="mr-auto font-medium underline">&larr; Back Home</a>
+  <div class="flex items-center justify-center gap-4 print:hidden sm:justify-end">
+    <a href="/" class="mr-auto hidden font-medium underline sm:block">&larr; Back Home</a>
     <button
       on:click={(e) => {
         e.preventDefault();
         scrollToTop();
-      }}>&uarr; Scroll to Top</button>
+      }}>&uarr; Scroll to Top</button
+    >
     <Button
       on:click={() => {
         showAnswers = true;
+        recoveredAnswers = false;
+        shownGroups = groupNames;
         setTimeout(() => scrollToTop());
-      }}>Check Answers</Button>
+        if (shouldShowConfetti()) {
+          showConfetti = true;
+        }
+      }}>Check Answers</Button
+    >
   </div>
 </main>

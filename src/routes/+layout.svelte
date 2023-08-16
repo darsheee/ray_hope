@@ -6,7 +6,7 @@
 <slot />
 
 <footer class="mx-auto max-w-max pt-12 opacity-70 transition-all hover:opacity-100 print:hidden">
-  A side project by <a href="https://github.com/FluxCapacitor2/"
+  A project by <a href="https://github.com/FluxCapacitor2/"
     ><img
       src="https://avatars.githubusercontent.com/u/31071265?v=4"
       width={16}
@@ -19,5 +19,9 @@
   &mdash; Content from the
   <a href="https://webquiz.ilrn.com/" class="font-medium underline">retired</a> Cengage WebQuiz
   website &mdash; Made with
-  <a href="https://kit.svelte.dev/" class="font-medium underline">SvelteKit</a>
+  <a href="https://kit.svelte.dev/" class="font-medium underline">SvelteKit</a> &mdash;
+  <a
+    href="https://github.com/FluxCapacitor2/webquiz-svelte/issues/new"
+    class="font-medium underline">Report an error</a
+  >
 </footer>

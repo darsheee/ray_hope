@@ -36,6 +36,7 @@
   "type": "module",
   "dependencies": {
     "@fontsource-variable/outfit": "^5.0.5",
-    "just-group-by": "^2.2.0"
+    "just-group-by": "^2.2.0",
+    "svelte-confetti": "^1.2.4"
   }
 }
