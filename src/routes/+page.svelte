@@ -10,6 +10,11 @@
   const chapters = Array.from({ length: 24 }).map((_, i) => i + 1);
 </script>
 
+<svelte:head>
+  <title>WebQuiz</title>
+  <meta name="og:title" content="WebQuiz" />
+</svelte:head>
+
 <main class="mx-auto max-w-3xl">
   <h1 class="text-3xl font-bold">Select a Quiz</h1>
 

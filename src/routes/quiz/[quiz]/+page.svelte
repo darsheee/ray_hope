@@ -93,18 +93,21 @@
 
 {#if showConfetti}
   <div
-    class="pointer-events-none fixed inset-0 -top-4 flex h-screen w-screen justify-center overflow-hidden"
-  >
+    class="pointer-events-none fixed inset-0 -top-4 flex h-screen w-screen justify-center overflow-hidden">
     <Confetti
       x={[-5, 5]}
       y={[0, 0.1]}
       delay={[0, 8000]}
       duration={5000}
       amount={500}
-      fallDistance="100vh"
-    />
+      fallDistance="100vh" />
   </div>
 {/if}
+
+<svelte:head>
+  <title>{quizName} | WebQuiz</title>
+  <meta name="og:title" content={quizName} />
+</svelte:head>
 
 <main class="mx-auto max-w-prose">
   <a href="/" class="mb-2 block font-medium underline print:hidden">&larr; Back Home</a>
@@ -119,10 +122,8 @@
           width={16}
           height={16}
           alt=""
-          class="inline"
-        />
-        FluxCapacitor2</a
-      >
+          class="inline" />
+        FluxCapacitor2</a>
     </p>
     <p class="underline">https://apes-web-quiz.vercel.app/</p>
   </div>
@@ -135,8 +136,7 @@
         on:click={() => {
           resetQuiz();
           recoveredAnswers = false;
-        }}>Reset answers.</button
-      >
+        }}>Reset answers.</button>
     </p>
   {/if}
 
@@ -145,15 +145,13 @@
       <Button
         on:click={() => {
           showAnswers = false;
-        }}>Hide Answers</Button
-      >
+        }}>Hide Answers</Button>
       <Button
         on:click={() => {
           resetQuiz();
           showAnswers = false;
           setTimeout(() => scrollToTop());
-        }}>Reset Quiz</Button
-      >
+        }}>Reset Quiz</Button>
     </Scores>
   {/if}
 
@@ -167,8 +165,7 @@
               type="checkbox"
               name="showQuestionType"
               value={name}
-              bind:group={shownGroups}
-            />{name}</label
+              bind:group={shownGroups} />{name}</label
           >{/if}
       {/each}
     </div>
@@ -182,8 +179,7 @@
         id="question_{index}"
         bind:selection={selections[index]}
         showAnswer={showAnswers}
-        disabled={showAnswers}
-      />
+        disabled={showAnswers} />
     {/if}
   {/each}
 
@@ -193,8 +189,7 @@
       on:click={(e) => {
         e.preventDefault();
         scrollToTop();
-      }}>&uarr; Scroll to Top</button
-    >
+      }}>&uarr; Scroll to Top</button>
     <Button
       on:click={() => {
         showAnswers = true;
@@ -204,7 +199,6 @@
         if (shouldShowConfetti()) {
           showConfetti = true;
         }
-      }}>Check Answers</Button
-    >
+      }}>Check Answers</Button>
   </div>
 </main>
