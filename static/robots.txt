@@ -1,1 +1,1 @@
-Sitemap: https://apes-web-quiz.vercel.app/sitemap.xml
+Sitemap: https://webquiz.bswanson.dev/sitemap.xml
