@@ -15,14 +15,14 @@
 <slot />
 
 <footer class="mx-auto max-w-max pt-12 opacity-70 transition-all hover:opacity-100 print:hidden">
-  A project by <a href="https://github.com/FluxCapacitor2/"
+  A project by <a href="https://bswanson.dev/"
     ><img
-      src="https://avatars.githubusercontent.com/u/31071265?v=4"
+      src="https://bswanson.dev/favicon.svg"
       width={16}
       height={16}
       alt=""
       class="inline" />
-    FluxCapacitor2</a>
+    Brendan Swanson</a>
   &mdash; Content from the
   <a href="https://webquiz.ilrn.com/" class="font-medium underline">retired</a> Cengage WebQuiz
   website &mdash; Made with
