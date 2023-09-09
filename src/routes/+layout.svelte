@@ -3,18 +3,6 @@
   import "../app.css";
 </script>
 
-<svelte:head>
-  <meta name="application-name" content="WebQuiz" />
-  <link rel="icon" href="/favicon.ico" sizes="32x32" />
-  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-  <link rel="manifest" href="/manifest.webmanifest" />
-  <meta name="author" content="FluxCapacitor2" />
-  <link rel="author" href="https://github.com/FluxCapacitor2/" />
-  <meta
-    name="description"
-    content="Online quizzes to help you study for AP Environmental Science in-class exams and the AP exam." />
-</svelte:head>
-
 <slot />
 
 <footer class="bg-primary-100 -mx-4 mt-24 py-6 dark:bg-neutral-900 print:hidden">
