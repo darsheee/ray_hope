@@ -63,8 +63,7 @@
           ? 'text-gray-600'
           : 'text-lime-600 focus:ring-2 focus:ring-lime-500'}"
         bind:group={selection}
-        {disabled}
-      />
+        {disabled} />
       <p class="-mt-1.5 px-1 {getClassName(index)}">
         {choice}
       </p>

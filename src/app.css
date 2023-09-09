@@ -16,12 +16,12 @@
     "Helvetica Neue",
     sans-serif;
 
-  @apply bg-lime-50 text-lime-950 accent-lime-600 selection:bg-lime-400/40 selection:text-black print:bg-white print:text-black;
+  @apply bg-primary-50 text-primary-950 accent-primary-600 selection:bg-primary-400/40 selection:text-black print:bg-white print:text-black;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     color-scheme: dark;
-    @apply bg-gray-950 text-white selection:bg-lime-400 selection:text-black;
+    @apply selection:bg-primary-400 bg-gray-800 text-white selection:text-black;
   }
 }

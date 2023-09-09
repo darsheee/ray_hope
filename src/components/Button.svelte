@@ -5,5 +5,5 @@
 
 <button
   on:click
-  class="{className} rounded-md border border-gray-300 bg-lime-50 px-3 py-1 font-medium transition-colors hover:bg-lime-100 focus:bg-lime-200 dark:border-gray-800 dark:bg-gray-950 dark:hover:bg-gray-900 dark:focus:border-gray-700 dark:focus:bg-gray-800">
+  class="{className} bg-primary-50 hover:bg-primary-100 focus:bg-primary-200 rounded-md border border-gray-300 px-3 py-1 font-medium transition-colors dark:border-gray-700 dark:bg-gray-900 dark:hover:bg-gray-950 dark:focus:border-gray-700 dark:focus:bg-gray-800">
   <slot /></button>
