@@ -30,4 +30,8 @@
   <a
     href="https://github.com/FluxCapacitor2/webquiz-svelte/issues/new"
     class="font-medium underline">Report an error</a>
+
+  <script
+    src="https://static.cloudflareinsights.com/beacon.min.js"
+    data-cf-beacon={'{"token": "343c6fb2a45f424dac0de8affe3c0ece"}'}></script>
 </footer>
