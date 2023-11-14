@@ -55,7 +55,7 @@
     {
       "number": 6,
       "question": "All of the following are greenhouse gases, except",
-      "choices": ["N2O, nitrous oxide.", "CH4, methane.", "H2, hydrogen.", "H2O, water vapor."],
+      "choices": ["N₂O, nitrous oxide.", "CH₄, methane.", "H₂, hydrogen.", "H₂O, water vapor."],
       "correct": 2
     },
     {

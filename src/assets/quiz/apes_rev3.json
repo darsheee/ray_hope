@@ -129,7 +129,7 @@
     },
     {
       "question": "Which of the following is not a greenhouse gas?",
-      "choices": ["CFCs", "carbon dioxide", "methane", "nitrous oxide", "SO2"],
+      "choices": ["CFCs", "carbon dioxide", "methane", "nitrous oxide", "SO₂"],
       "number": 14,
       "correct": 4
     },
@@ -159,13 +159,13 @@
     },
     {
       "question": "Which of the following is not a result of photochemical reactions",
-      "choices": ["NO2", "particulates", "PAN", "VOC", "ozone"],
+      "choices": ["NO₂", "particulates", "PAN", "VOC", "ozone"],
       "number": 17,
       "correct": 1
     },
     {
       "question": "Which of the following substances is an indoor pollutant linked to lung cancer?",
-      "choices": ["PAN", "O3", "freon", "SO2", "radon"],
+      "choices": ["PAN", "O₃", "freon", "SO₂", "radon"],
       "number": 18,
       "correct": 4
     },
@@ -177,7 +177,7 @@
     },
     {
       "question": "Which of the following reactions is not a significant contributor of acid precipitation?",
-      "choices": ["H2SO4", "HNO3", "HCl"],
+      "choices": ["H₂SO₄", "HNO₃", "HCl"],
       "number": 20,
       "correct": 2
     },
@@ -201,7 +201,7 @@
     },
     {
       "question": "What is best removed by electrostatic precipitators?",
-      "choices": ["particulates", "CO", "SO2", "limestone", "hydrocarbons"],
+      "choices": ["particulates", "CO", "SO₂", "limestone", "hydrocarbons"],
       "number": 23,
       "correct": 0
     },
