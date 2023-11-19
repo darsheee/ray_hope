@@ -22,6 +22,11 @@
 @media (prefers-color-scheme: dark) {
   :root {
     color-scheme: dark;
-    @apply selection:bg-primary-400 bg-gray-800 text-white selection:text-black;
+    @apply bg-gray-800 text-white selection:bg-primary-400 selection:text-black;
+  }
+
+  textarea,
+  input {
+    @apply dark:text-black;
   }
 }

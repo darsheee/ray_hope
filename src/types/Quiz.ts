@@ -5,7 +5,7 @@ export interface Quiz {
 }
 
 export interface Question {
-  number?: number;
+  number: number;
   question: string;
   choices: string[];
   correct: number;
