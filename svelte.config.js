@@ -1,4 +1,4 @@
-import adapterStatic from "@sveltejs/adapter-static";
+import adapterNode from "@sveltejs/adapter-node";
 import adapterVercel from "@sveltejs/adapter-vercel";
 import { vitePreprocess } from "@sveltejs/kit/vite";
 
@@ -7,7 +7,7 @@ const config = {
   preprocess: [vitePreprocess({})],
 
   kit: {
-    adapter: process.env.VERCEL ? adapterVercel() : adapterStatic(),
+    adapter: process.env.VERCEL ? adapterVercel() : adapterNode(),
     serviceWorker: {
       register: true,
     },

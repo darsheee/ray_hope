@@ -13,7 +13,7 @@
   let contact = "";
 
   const quizNames = import.meta.glob("../../assets/quiz/*.json");
-  const modules = Promise.all(Object.keys(quizNames).map((quiz) => import(quiz)));
+  const modules = Promise.all(Object.keys(quizNames).map((quiz) => quizNames[quiz]() as any));
   const quizzes = modules.then((moduleList) => moduleList.map((module) => module.default as Quiz));
 
   async function submit(info: FormSubmission) {
@@ -49,12 +49,12 @@
     <div class="my-4">
       <p class="font-medium">I am reporting an error with:</p>
       <label class="block">
-        <input type="radio" name="errorType" value="quiz" bind:group={errorType} />
+        <input type="radio" required name="errorType" value="quiz" bind:group={errorType} />
         A quiz question
       </label>
 
       <label class="block">
-        <input type="radio" name="errorType" value="site" bind:group={errorType} />
+        <input type="radio" required name="errorType" value="site" bind:group={errorType} />
         The site itself
       </label>
     </div>
@@ -72,79 +72,93 @@
               <QuizQuestionSearch {searchTerm} quizzes={awaited} bind:selected />
             {/await}
           {:else}
-            <div class="my-4">
-              <p class="mb-2 font-medium">
-                Selected Question: {selected.quiz.displayName} #{selected.number}
-              </p>
-              <Button primary on:click={() => (selected = undefined)} class="mb-4"
-                >Clear selection</Button>
-              <p class="font-medium">{selected.question}</p>
-              <ul class="list-inside list-disc">
-                {#each selected.choices as choice}
-                  <li>{choice}</li>
-                {/each}
-              </ul>
-              <p class="mt-4">
-                Correct answer: <span class="font-medium"
-                  >{selected.choices[selected.correct]}</span>
-              </p>
-            </div>
+            <form
+              on:submit={(e) => {
+                e.preventDefault();
+                if (!selected) {
+                  alert("You have no quiz question selected!");
+                  return;
+                }
+                submit({
+                  errorType: "quiz",
+                  contact,
+                  details,
+                  selected: { ...selected, quiz: { ...selected.quiz, questions: [] } },
+                });
+              }}>
+              <div class="my-4">
+                <p class="mb-2 font-medium">
+                  Selected Question: {selected.quiz.displayName} #{selected.number}
+                </p>
+                <Button primary on:click={() => (selected = undefined)} class="mb-4"
+                  >Clear selection</Button>
+                <p class="font-medium">{selected.question}</p>
+                <ul class="list-inside list-disc">
+                  {#each selected.choices as choice}
+                    <li>{choice}</li>
+                  {/each}
+                </ul>
+                <p class="mt-4">
+                  Correct answer: <span class="font-medium"
+                    >{selected.choices[selected.correct]}</span>
+                </p>
+              </div>
 
-            <div class="my-4">
-              <label class="font-medium">
-                Please describe the issue in detail, including what's wrong, how it should be
-                corrected, and sources (if necessary).
-                <textarea name="details" bind:value={details} class="w-full font-normal" />
-              </label>
-            </div>
+              <div class="my-4">
+                <label class="font-medium">
+                  Please describe the issue in detail, including what's wrong, how it should be
+                  corrected, and sources (if necessary).
+                  <textarea
+                    name="details"
+                    required
+                    maxlength="1024"
+                    bind:value={details}
+                    class="w-full font-normal" />
+                </label>
+              </div>
 
-            <div class="my-4">
-              <p class="font-medium">Contact email <span class="font-normal">(optional)</span></p>
-              <input type="email" bind:value={contact} />
-            </div>
+              <div class="my-4">
+                <p class="font-medium">Contact email <span class="font-normal">(optional)</span></p>
+                <input type="email" maxlength="1024" bind:value={contact} />
+              </div>
 
-            <div class="mt-4 flex w-full">
-              <Button
-                primary
-                on:click={() => {
-                  if (!selected) {
-                    alert("You have no quiz question selected!");
-                    return;
-                  }
-                  submit({
-                    errorType: "quiz",
-                    contact,
-                    details,
-                    selected: { ...selected, quiz: { ...selected.quiz, questions: [] } },
-                  });
-                }}>Submit</Button>
-            </div>
+              <div class="mt-4 flex w-full">
+                <Button primary type="submit">Submit</Button>
+              </div>
+            </form>
           {/if}
         {/if}
       {:else if errorType === "site"}
-        <div class="my-4">
-          <label class="font-medium">
-            Please describe the issue in detail, including steps to reproduce, expected behavior,
-            and affected pages.
-            <textarea name="details" bind:value={details} class="w-full font-normal" />
-          </label>
-        </div>
-        <div class="my-4">
-          <p class="font-medium">Contact email <span class="font-normal">(optional)</span></p>
-          <input type="email" bind:value={contact} />
-        </div>
+        <form
+          on:submit={(e) => {
+            e.preventDefault();
+            submit({
+              errorType: "site",
+              contact,
+              details,
+            });
+          }}>
+          <div class="my-4">
+            <label class="font-medium">
+              Please describe the issue in detail, including steps to reproduce, expected behavior,
+              and affected pages.
+              <textarea
+                name="details"
+                required
+                maxlength="1024"
+                bind:value={details}
+                class="w-full font-normal" />
+            </label>
+          </div>
+          <div class="my-4">
+            <p class="font-medium">Contact email <span class="font-normal">(optional)</span></p>
+            <input type="email" maxlength="1024" bind:value={contact} />
+          </div>
 
-        <div class="mt-4 flex w-full">
-          <Button
-            primary
-            on:click={() => {
-              submit({
-                errorType: "site",
-                contact,
-                details,
-              });
-            }}>Submit</Button>
-        </div>
+          <div class="mt-4 flex w-full">
+            <Button primary type="submit">Submit</Button>
+          </div>
+        </form>
       {/if}
     </div>
   </form>
