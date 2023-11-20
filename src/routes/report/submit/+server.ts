@@ -48,8 +48,12 @@ export async function POST({ request, cookies }) {
               value: choice,
             })),
             {
+              name: "Affected File",
+              value: `https://github.com/FluxCapacitor2/webquiz-svelte/edit/main/src/assets/quiz/${body.selected.quiz.id}.json`,
+            },
+            {
               name: "Contact",
-              value: body.contact,
+              value: body.contact.trim().length > 0 ? body.contact : "*(None)*",
             },
           ],
         },
@@ -68,7 +72,7 @@ export async function POST({ request, cookies }) {
             },
             {
               name: "Contact",
-              value: body.contact,
+              value: body.contact.trim().length > 0 ? body.contact : "*(None)*",
             },
           ],
         },
