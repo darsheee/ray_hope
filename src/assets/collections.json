@@ -6,7 +6,7 @@
   "unit_5": { "displayName": "Chapters 9-11", "include": ["apes_ch9", "apes_ch10", "apes_ch11"] },
   "unit_6": { "displayName": "Chapters 12-13", "include": ["apes_ch12", "apes_ch13"] },
   "unit_7": { "displayName": "Chapters 14-16", "include": ["apes_ch14", "apes_ch15", "apes_ch16"] },
-  "unit_8": { "displayName": "Chapters 17-19", "include": ["apes_ch16", "apes_ch18", "apes_ch19"] },
+  "unit_8": { "displayName": "Chapters 17-19", "include": ["apes_ch17", "apes_ch18", "apes_ch19"] },
   "unit_9": { "displayName": "Chapters 20-21", "include": ["apes_ch20", "apes_ch21"] },
   "unit_10": {
     "displayName": "Chapters 22-24",
