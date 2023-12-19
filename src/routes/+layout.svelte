@@ -1,9 +1,9 @@
 <script>
-  import "@fontsource-variable/outfit";
   import "../app.css";
-  import Footer from "../components/Footer.svelte";
 </script>
 
-<slot />
-
-<Footer />
+<div
+  class="quizzes-container w-[700px] m-auto flex justify-center h-screen items-center bg-blue-400"
+>
+  <slot />
+</div>
