@@ -1,0 +1,393 @@
+{
+  "id": "ancient_history_pyq",
+  "displayName": " Ancient History PYQ",
+  "questions": [
+    {
+      "question": "With reference to India's culture and tradition, what is 'Kalaripayattu?    [UPSC 2014  ]",
+      "choices": [
+        "(a) It is an ancient Bhakti cult of Shaivism still prevalent in some parts of South India."        , 
+        " (b) It is an ancient style bronze and brasswork still found in southern part of Coromandel area."            ,   
+        "(c) It is an ancient form of dance-drama and a living tradition in the northern part of Malabar."                  , 
+        "(d) It is an ancient martial art and a living tradition in some parts of South India."         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    },{
+      "question": "With reference to the cultural history of India, the term 'Panchayatan' refers to     [UPSC 2014 ]",
+      "choices": [
+        "(a) an assembly of village elders"        , 
+        "(b) a religious sect"            ,   
+        "(c) a style of temple construction"                  , 
+        "(d) an administrative functionary"         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    },{
+      "question": "Who of the following founded a new city on the south bank of a tributary to river Krishna and undertook to rule his new kingdom as the agent of a deity to whom all the land south of the river Krishna was supposed to belong?    [UPSC 2014  ]",
+      "choices": [
+        "(a) Amoghavarsha I"        , 
+        "(b) Ballala I"            ,   
+        " (c) Harihara I"                  , 
+        "(d) Prataparudra II"         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": "With reference to the art and archaeological history of India, which one among the following was made earliest?    [UPSC 2014  ]",
+      "choices": [
+        "(a) Lingaraja Temple at Bhubaneswar"        , 
+        "(b) Rock-cut Elephant at Dhauli"            ,   
+        "(c) Rock-cut Monuments Mahabalipuram"                  , 
+        " (d) Varaha Image at Udayagiri"         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": "With reference to the economic history of medieval India, the term 'Araghatta' refers to     [UPSC 2016 ]",
+      "choices": [
+        "(a) bonded labour"        , 
+        "(b) land grant made to military officers"            ,   
+        "c) waterwheel used in the irrigation of land"                  , 
+        "d) wasteland converted to cultivated land"         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    },{
+      "question": "With reference to the cultural history of India, the memorizing of chronicles, dynastic histories and epic tales was the profession of who of the following?    [UPSC 2016  ]",
+      "choices": [
+        "(a) Shramana"        , 
+        "(b) Parivraajaka"            ,   
+        "(c) Agrahaarika "                  , 
+        "(d) Maagadha"         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    },{
+      "question": "What was the main reason for the split in the Indian National Congress at Surat in 1907?   [UPSC  ]",
+      "choices": [
+        "(a) Introduction of communalism into Indian politics b Lord Minto"        , 
+        "(b) Extremists' lack of faith in the capacity of the moderates to negotiate with the British Government"            ,   
+        "(c) Foundation of Muslim League "                  , 
+        "(d) Aurobindo Ghosh's inability to the elected as the President of the Indian National Congress "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": "The plan of Sir Stafford Cripps envisaged that after the Second World War _____________.     [UPSC 2016  ]",
+      "choices": [
+        "(a) India should be granted complete independence"        , 
+        "(b) India should be partitioned into two before granting independence"            ,   
+        "(c) India should be made a republic with the condition that she will join the Commonwealth"                  , 
+        "(d) India should be given Dominion status"         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    },{
+      "question": "Which one of the following books of ancient India has the love story of the son of the founder of Sunga dynasty?     [UPSC 2016 ]",
+      "choices": [
+        "(a) Swapnavasavadatta"        , 
+        "(b) Malavikagnimitra"            ,   
+        "(c) Meghadoota"                  , 
+        "(d) Ratnavali"         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": "Who of the following had first deciphered the edicts of Emperor Ashoka?    [UPSC 2016 ]",
+      "choices": [
+        " (a) Georg Buhler"        , 
+        "(b) James Prinsep"            ,   
+        "(c) Max Muller"                  , 
+        "(d) William Jones"          
+               
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": "With reference to the religious history of India, consider the following statements: \n 1. The concept of Bodhisattva is central to Hinayana sect of Buddhism. \n 2. Bodhisattva is a compassionate one on his way to enlightenment. \n 3. Bodhisattva delays achieving his own salvation to help all sentinent beings on their path to it. \n Which of the statements given above is/are correct?    [UPSC  2016  ]",
+      "choices": [
+        "(a) 1 only"        , 
+        "(b) 2 and 3 only"            ,   
+        "(c) 2 only "                  , 
+        "(d) 1, 2 and 3"         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": "What is/are common to the two historical places known as Ajanta and Mahabalipuram? \n 1. Both were built in the same period. \n 2. Both belong to the same religious denomination. \n 3. Both have rock-cut monuments. Select the correct answer using the code given below.   [UPSC 2016  ]",
+      "choices": [
+        "(a) 1 and 2 only"        , 
+        "(b) 3 only "            ,   
+        "(c) 1 and 3 only "                  , 
+        "(d) None of the statements given above is correct"         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    },{
+      "question": "The painting of Bodhisattva Padmapani is one of the most famous and oft illustrated paintings at  [UPSC 2017  ]",
+      "choices": [
+        "(a) Ajanta"        , 
+        "(b) Badami"            ,   
+        " (c) Bagh"                  , 
+        " (d) Ellora "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    },{
+      "question": "Which one of the following foreign travellers elaborately discussed about diamonds and diamond mines of India?     [UPSC 2018 ]",
+      "choices": [
+        "(a) Francois Bernier"        , 
+        "(b) Jean-Baptiste Tavernier"            ,   
+        "(c) Jean de Thevenot"                  , 
+        "(d) Abbe Barthelemy Carre"         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": "Which one of the following is not a Harappan site?     [UPSC 2019 ]",
+      "choices": [
+        "(a) Chanhudaro"        , 
+        "(b) Kot Diji"            ,   
+        "(c) Sohgaura"                  , 
+        "(d) Desalpur"         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    },
+    {
+      "question": "In which of the following relief sculpture inscriptions is 'Ranyo Ashoka' (King Ashoka) mentioned along with the stone portrait of Ashoka?      [UPSC 2019  ]",
+      "choices": [
+        "(a) Kanganahalli   "        , 
+        "   (b) Sanchi "            ,   
+        "  (c) Shahbazgarhi "                  , 
+        "  (d) Sohgaura "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    }, {
+      "question": "Consider the following statements: \n 1. Deification of the Buddha \n 2. Trading the path of Bodhisattvas \n 3. Image worship and rituals \n Which of the above is/are the feature/features of Mahayana Buddhism?      [UPSC 2019  ]",
+      "choices": [
+        "(a) 1 only   "        , 
+        " (b) 1 and 2 only  "            ,   
+        " (c) 2 and 3 only  "                  , 
+        "  (d) 1, 2 and 3   "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    }, {
+      "question": "With refence to forced labour (Vishti) in India during the Gupta period, which one of the following statements is correct?        [UPSC 2019  ]",
+      "choices": [
+        " (a) It was considered a source of income for the State, a sort of tax paid by the people.  "        , 
+        " (b) It was totally absent in the Madhya Pradesh and Kathiawar region of the Gupta Empire.  "            ,   
+        " (c) The forced labourer was entitled to weekly wages.  "                  , 
+        " (d) The eldest son of the labourer was sent as the forced labourer.  "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    }, {
+      "question": "Building 'Kalyaana Mandapas' was a notable feature in the temple construction in the kingdom of        [UPSC 2019  ]",
+      "choices": [
+        " (a) Chalukya  "        , 
+        " (b) Chandela  "            ,   
+        " (c) Rashtrakuta  "                  , 
+        "  (d) Vijayanagara "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    }, {
+      "question": "With reference to scholars/litterateurs the of ancient India, consider the following statements: \n 1. Panini is associated with Pushyamitra Shunga. \n 2. Amarasimha is associated with Harshavardhana. \n 3. Kalidasa is associated with Chandra Gupta-II. \n Which of the statements given above is/are correct?      [UPSC 2020  ]",
+      "choices": [
+        " (a) 1 and 2 only  "        , 
+        " (b) 2 and 3 only  "            ,   
+        " (c) 3 only  "                  , 
+        "  (d) 1, 2 and 3   "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": "Consider the following events in the history of India: \n 1. Rise of Pratiharas under King Bhoja \n 2 Establishment of Pallava power under Mahendravarman-I \n 3. Establishment of Chola power by Purantaka \n 4. Pala dynasty founded by Gopala. \n What is the correct chronological order of the above events, starting from the earliest time?      [UPSC 2020  ]",
+      "choices": [
+        " (a) 2-1-4-3  "        , 
+        " (b) 3-1-4-2  "            ,   
+        " (c) 2-4-1-3   "                  , 
+        " (d) 3-4-1-2   "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": " With reference to the history of India, the terms 'kulyavapa' and 'dronavapa' denote _________.      [UPSC 2020  ]",
+      "choices": [
+        " (a) measurement of land  "        , 
+        " (b) coins of different monetary value  "            ,   
+        "(c) classification of urban land    "                  , 
+        " (d) religious rituals  "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    }, {
+      "question": "Who among the following rulers advised his subjects through this inscription? 'Whosoever praises his religious sect or blames other sects out of excessive devotion to his own sect, with the view of glorifying his own sect, he rather injures his own sect very severely.'      [UPSC 2020  ]",
+      "choices": [
+        " (a) Ashoka  "        , 
+        "  (b) Samudragupta "            ,   
+        " (c) Harshavardhana   "                  , 
+        " (d) Krishnadeva Raya  "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    }, {
+      "question": "With reference to the period of Gupta dynasty in ancient India, the towns Ghantasala, Kadura and Chaul were well known as _____________.       [UPSC 2020  ]",
+      "choices": [
+        " (a) ports handling foreign trade  "        , 
+        " (b) capitals of powerful kingdoms  "            ,   
+        "  (c) places of exquisite stone art and architecture "                  , 
+        "  (d) important Buddhist pilgrimage centres  "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    }, {
+      "question": "Which one of the following statements best describes the term 'Social Cost of Carbon'? It is a measure, in monetary value, of the        [UPSC 2020  ]",
+      "choices": [
+        " (a) long-term damage done by a tonne of CO2 emissions in a given year.  "        , 
+        " (b) requirement of fossil fuels for a country to provide goods and services to its citizens, based on the burning of those fuels.  "            ,   
+        " (c) efforts put in by a climate refugee to adapt to live in a new place.  "                  , 
+        "  (d) contribution of an individual person to the carbon footprint on the planet Earth. "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    }, {
+      "question": " Which one of the following ancient towns is well-known for its elaborate system of water harvesting and management by building a series of dams and channelizing water into connected reservoirs?     [UPSC 2021  ]",
+      "choices": [
+        " (a) Dholavira  "        , 
+        " (b) Kalibangan  "            ,   
+        "  (c) Rakhigarhi "                  , 
+        "  (d) Ropar   "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    }, {
+      "question": "In the first quarter of seventeenth century, in which of the following was/were the factory/factories of the English East India Company located? \n 1. Broach \n 2. Chicacole \n 3. Trichinopoly \n Select the correct answer using the code given below.     [UPSC 2021  ]",
+      "choices": [
+        "  (a) 1 only   "        , 
+        " (b) 1 and 2  "            ,   
+        " (c) 3 only  "                  , 
+        " (d) 2 and 3   "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    }, {
+      "question": "From the decline of Guptas until the rise of Harshavardhana in the early seventh century, which of the following kingdoms were holding power in Northern India?\n  1. The Guptas of Magadha \n 2. The Paramaras of Malwa \n 3. The Pushyabhutis of Thanesar \n 4. The Maukharis of Kanauj \n 5. The Yadavas of Devagiri \n 6. The Maitrakas of Valabhi \n Select the correct answer using the code given below.        [UPSC 2021 ]",
+      "choices": [
+        " (a) 1, 2 and 5  "        , 
+        " (b) 1, 3, 4 and 6  "            ,   
+        "  (c) 2, 3 and 4 "                  , 
+        " (d) 5 and 6  "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    }, {
+      "question": "According to Portuguese writer Nuniz, the women in Vijayanagara Empire were expert in which of the following areas? \n 1. Wrestling \n 2. Astrology \n 3. Accounting \n 4. Soothsaying \n Select the correct answer using the code given below.      [UPSC 2021  ]",
+      "choices": [
+        " (a) 1, 2 and 3 only  "        , 
+        "  (b) 1, 3 and 4 only  "            ,   
+        " (c) 2 and 4 only   "                  , 
+        "  (d) 1, 2, 3 and 4 "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    }, {
+      "question": "With reference to Madanapalle of Andhra Pradesh, which one of the following statements is correct?      [UPSC 2021  ]",
+      "choices": [
+        " (a) Pingali Venkayya designed the tricolour Indian National Flag here.  "        , 
+        " (b) Pattabhi Sitaramaiah led the Quit India Movement of Andhra region from here.  "            ,   
+        " (c) Rabindranath Tagore translated the National Anthem from Bengali to English here.  "                  , 
+        "  (d) Madame Blavatsky and Colonel Olcott set up headquarters of Theosophical Society first here.   "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": "With reference to the history of ancient India, Bhavabhuti, Hastimalla and Kshemeshvara were famous       [UPSC 2021  ]",
+      "choices": [
+        " (a) Jain monks  "        , 
+        "(b) playwrights   "            ,   
+        " (c) temple architects  "                  , 
+        "  (d) philosophers  "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    }, {
+      "question": "Which one of the following statements is correct?      [UPSC 2021  ]",
+      "choices": [
+        "   (a) Ajanta Caves lie in the gorge of Waghora river. "        , 
+        " (b) Sanchi Stupa lies in the gorge of Chambal river.  "            ,   
+        "  (c) Pandu-lena Cave Shrines lie in the gorge of Narmada river. "                  , 
+        "  (d) Amaravati Stupa lies in the gorge of Godavari river.  "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    }, {
+      "question": "According to Kautilya's Arthashastra, which of the following are correct? \n1. A person could be a slave as a result of a judicial punishment. \n2. If a female slave bore her master a son, she was legally free. \n3. If a son born to a female slave was fathered by her master, the son was entitled to the legal status of the master's son. \nWhich of the statements given above are correct?      [UPSC 2022  ]",
+      "choices": [
+        "(a) 1 and 2 only   "        , 
+        "(b) 2 and 3 only   "            ,   
+        "  (c) 1 and 3 only  "                  , 
+        "  (d) 1, 2 and 3  "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    }, {
+      "question": " In which one of the following regions was Dhanyakataka, which flourished as a prominent Buddhist centre under the Mahasanghikas, located?      [UPSC 2023  ]",
+      "choices": [
+        "(a) Andhra   "        , 
+        " (b) Gandhara   "            ,   
+        " (c) Kalinga  "                  , 
+        " (d) Magadhas  "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    }, {
+      "question": "With reference to ancient South India, Korkai, Poompuhar and Muchiri were well known as      [UPSC 2023  ]",
+      "choices": [
+        " (a) capital cities  "        , 
+        "(b) ports    "            ,   
+        " (c) centres of iron-and- steel making  "                  , 
+        "  (d) shrines of Jain tirthankaras  "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    }
+  ]
+}
