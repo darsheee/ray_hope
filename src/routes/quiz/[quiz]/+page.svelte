@@ -115,14 +115,14 @@
   <h1 class="text-3xl font-bold">
     {quizName}
   </h1>
-  <div class="hidden break-before-avoid opacity-75 print:block">
+  <!-- <div class="hidden break-before-avoid opacity-75 print:block">
     <p>
       WebQuiz: a project by <a href="https://bswanson.dev"
         ><img src="https://bswanson.dev/favicon.svg" width={16} height={16} alt="" class="inline" />
         Brendan Swanson</a>
     </p>
     <p class="underline">https://webquiz.bswanson.dev/</p>
-  </div>
+  </div> -->
   <p class="mb-8">{questions.length} questions</p>
 
   {#if recoveredAnswers}
