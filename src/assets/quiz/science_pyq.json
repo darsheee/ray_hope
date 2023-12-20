@@ -4,7 +4,7 @@
   "questions": [
    {
       "number": 99,
-      "question": "A layer in the Earth's atmosphere called lonosphere facilitates radio communication. Why?  \n 1. The presence of ozone causes the reflection of radio waves to Earth.  \n 2. Radio waves have a very long wavelength. \n  Which of the statements given above is/are correct?              [UPSC 2011]",
+      "question": "A layer in the Earth's atmosphere called lonosphere facilitates radio communication. Why?  \u23E9 1. The presence of ozone causes the reflection of radio waves to Earth.  \u23E9 2. Radio waves have a very long wavelength. \u23E9  Which of the statements given above is/are correct?              [UPSC 2011]",
       "choices": [
         "(a) 1 only"    ,
         "(b) 2 only"    ,
@@ -15,7 +15,7 @@
       "correct": 3
     },{
       "number": 99,
-      "question": " Which of the following is/are cited by the scientists as evidence/evidences for the continued expansion of universe? \n 1. Detection of microwaves in space. \n 2. Observation of redshift phenomenon in space. \n 3. Movement of asteroids in space. 4. Occurrence of supernova explosion in space. \n Select the correct answer using the codes given below:                [UPSC 2012] ",
+      "question": " Which of the following is/are cited by the scientists as evidence/evidences for the continued expansion of universe? \u23E9 1. Detection of microwaves in space. \u23E9 2. Observation of redshift phenomenon in space. \u23E9 3. Movement of asteroids in space. 4. Occurrence of supernova explosion in space. \u23E9 Select the correct answer using the codes given below:                [UPSC 2012] ",
       "choices": [
         "(a) 1 and 2"    ,
         "   (b) 2 only"      ,
@@ -26,7 +26,7 @@
       "correct": 0
     },{
       "number": 99,
-      "question": "Which of the following statements is/are correct? \n 1. Viruses lack enzymes necessary for the generation of energy \n 2. Viruses can be cultured in any synthetic medium. \n 3. Viruses are transmitted from one organism to another by biological vectors only \n  Select the correct answer using the codes given below  [UPSC 2013]",
+      "question": "Which of the following statements is/are correct? \u23E9 1. Viruses lack enzymes necessary for the generation of energy \u23E9 2. Viruses can be cultured in any synthetic medium. \u23E9 3. Viruses are transmitted from one organism to another by biological vectors only \u23E9  Select the correct answer using the codes given below  [UPSC 2013]",
       "choices": [
         "(a) 1 only",
         "  (b) 2 and 3 only"      ,
@@ -104,7 +104,7 @@
       "correct": 3
     },{
       "number": 99,
-      "question": "Consider the following statements: \n 1. Light is affected by gravity. \n 2. The Universe is constantly expanding. \n 3. Matter warps its surrounding space-time. \n Which of the above is/are the prediction/predictions of Albert Einstein's General Theory of Relativity, often discussed in media?   [UPSC 2018 ]",
+      "question": "Consider the following statements: \u23E9 1. Light is affected by gravity. \u23E9 2. The Universe is constantly expanding. \u23E9 3. Matter warps its surrounding space-time. \u23E9 Which of the above is/are the prediction/predictions of Albert Einstein's General Theory of Relativity, often discussed in media?   [UPSC 2018 ]",
       "choices": [
         "(a) 1 and 2 only"     ,
         "(b) 3 only"      ,
@@ -148,7 +148,7 @@
       "correct": 0
     },{
       "number": 99,
-      "question": "For the measurement/ estimation of which of the following are satellite images/remote sensing data used? \n 1. Chlorophyll content in the vegetation of a specific location \n 2. Greenhouse gas emissions from rice paddies of a specific location \n 3. Land surface temperatures of a specific location. \n Select the correct answer using the code given below.       [UPSC 2019 ]",
+      "question": "For the measurement/ estimation of which of the following are satellite images/remote sensing data used? \u23E9 1. Chlorophyll content in the vegetation of a specific location \u23E9 2. Greenhouse gas emissions from rice paddies of a specific location \u23E9 3. Land surface temperatures of a specific location. \u23E9 Select the correct answer using the code given below.       [UPSC 2019 ]",
       "choices": [
         "(a) 1 only"     ,
         "(b) 2 and 3 only"      ,
@@ -181,7 +181,7 @@
       "correct": 3
     },{
       "number": 99,
-      "question": "With reference 'Blockchain to Technology' consider the following statements: \n 1. It is a public ledger that everyone we inspect, but which no single user controls \n 2. The structure and design of blockchain is such that all the data in it are about crypto currency only. \n 3. Applications that depend on basic features of blockchain can be developed without anybody's permission. \n Which of the statements given above is/are correct?      [UPSC 2020 ]",
+      "question": "With reference 'Blockchain to Technology' consider the following statements: \u23E9 1. It is a public ledger that everyone we inspect, but which no single user controls \u23E9 2. The structure and design of blockchain is such that all the data in it are about crypto currency only. \u23E9 3. Applications that depend on basic features of blockchain can be developed without anybody's permission. \u23E9 Which of the statements given above is/are correct?      [UPSC 2020 ]",
       "choices": [
         "(a) 1 only"     ,
         "(b) 1 and 2 only"      ,
@@ -214,7 +214,7 @@
       "correct": 2
     },{
       "number": 99,
-      "question": "Consider the following: \n 1.Bacteria \n 2.Fungi \n 3.Virus. \n Which of the above can be cultured in artificial/synthetic medium?   [UPSC 2021 ]",
+      "question": "Consider the following: \u23E9 1.Bacteria \u23E9 2.Fungi \u23E9 3.Virus. \u23E9 Which of the above can be cultured in artificial/synthetic medium?   [UPSC 2021 ]",
       "choices": [
         "(a) 1 and 2 only"     ,
         " (b) 2 and 3 only"      ,
@@ -225,7 +225,7 @@
       "correct": 1
     },{
       "number": 99,
-      "question": "Consider the following statements: \n 1.Adenoviruses have single- stranded DNA genomes whereas retroviruses have double-stranded DNA genomes. \n 2.Common cold is sometime caused by an adenovirus whereas AIDS is caused by a retrovirus. \n Which of the statements given above is/are correct?      [UPSC 2021 ]",
+      "question": "Consider the following statements: \u23E9 1.Adenoviruses have single- stranded DNA genomes whereas retroviruses have double-stranded DNA genomes. \u23E9 2.Common cold is sometime caused by an adenovirus whereas AIDS is caused by a retrovirus. \u23E9 Which of the statements given above is/are correct?      [UPSC 2021 ]",
       "choices": [
         "(a) 1 only"     ,
         "(b) 2 only"      ,
@@ -302,7 +302,7 @@
       "correct": 1
     },{
       "number": 99,
-      "question": "Consider following communication the technologies: \n1. Closed-circuit Television \n2. Radio Frequency Identification \n3. Wireless Local Area Network. \nWhich of the above are considered Short- Range devices/technologies?      [UPSC 2022 ]",
+      "question": "Consider following communication the technologies: \u23E91. Closed-circuit Television \u23E92. Radio Frequency Identification \u23E93. Wireless Local Area Network. \u23E9Which of the above are considered Short- Range devices/technologies?      [UPSC 2022 ]",
       "choices": [
         "(a) 1 and 2 only"     ,
         "(b) 2 and 3 only"      ,
@@ -313,7 +313,7 @@
       "correct": 3
     },{
       "number": 99,
-      "question": "Consider the following statements: \n1. Biofilms can form on medical implants within human tissues. \n2. Biofilms can form on food and food processing surfaces. \n3. Biofilms can exhibit antibiotic resistance. \nWhich of the statements given above are correct?      [UPSC 2022 ]",
+      "question": "Consider the following statements: \u23E91. Biofilms can form on medical implants within human tissues. \u23E92. Biofilms can form on food and food processing surfaces. \u23E93. Biofilms can exhibit antibiotic resistance. \u23E9Which of the statements given above are correct?      [UPSC 2022 ]",
       "choices": [
         "(a) 1 and 2 only"     ,
         "(b) 2 and 3 only"      ,
@@ -324,7 +324,7 @@
       "correct": 3
     },{
       "number": 99,
-      "question": "Consider the following statements in respect of probiotics: \n1. Probiotics are made of both bacteria and yeast. \n2. The organisms in probiotics are found in foods we ingest but they do not naturally occur in our gut. \n3. Probiotics help in the digestion of milk sugars. \nWhich of the statements given above is/are correct?     [UPSC 2022 ]",
+      "question": "Consider the following statements in respect of probiotics: \u23E91. Probiotics are made of both bacteria and yeast. \u23E92. The organisms in probiotics are found in foods we ingest but they do not naturally occur in our gut. \u23E93. Probiotics help in the digestion of milk sugars. \u23E9Which of the statements given above is/are correct?     [UPSC 2022 ]",
       "choices": [
         "(a) 1 only"     ,
         "(b) 2 only"      ,
@@ -335,7 +335,7 @@
       "correct": 2
     },{
       "number": 99,
-      "question": "Consider the following statements: DNA Barcoding can be a tool to: \n 1. assess the age of a plant or animal. \n 2. distinguish among species that look alike. \n 3. identify undesirable animal or plant materials in processed foods. \n Which of the statements given above is/are correct?      [UPSC 2022 ]",
+      "question": "Consider the following statements: DNA Barcoding can be a tool to: \u23E9 1. assess the age of a plant or animal. \u23E9 2. distinguish among species that look alike. \u23E9 3. identify undesirable animal or plant materials in processed foods. \u23E9 Which of the statements given above is/are correct?      [UPSC 2022 ]",
       "choices": [
         "(a) 1 only"     ,
         "(b) 3 only"      ,
@@ -346,7 +346,7 @@
       "correct": 3
     },{
       "number": 99,
-      "question": "Consider the following statements: \n1. Other than those made by humans, nanoparticles do not exist in nature. \n2. Nanoparticles of some metallic oxides are used in the manufacture of some cosmetics. \n3. Nanoparticles of some commercial products which enter the environment are unsafe for humans. \nWhich of the statements given above is/are correct?    [UPSC 2022 ]",
+      "question": "Consider the following statements: \u23E91. Other than those made by humans, nanoparticles do not exist in nature. \u23E92. Nanoparticles of some metallic oxides are used in the manufacture of some cosmetics. \u23E93. Nanoparticles of some commercial products which enter the environment are unsafe for humans. \u23E9Which of the statements given above is/are correct?    [UPSC 2022 ]",
       "choices": [
         "(a) 1 only"     ,
         "(b) 3 only"      ,
@@ -390,7 +390,7 @@
       "correct": 0
     },{
       "number": 99,
-      "question": "Consider the following statements:  \n1. Carbon fibres are used in the manufacture of components used in automobiles and aircrafts.  \n2. Carbon fibres once used cannot be recycled. \n Which of the statements given above is/are correct?     [UPSC 2023 ]",
+      "question": "Consider the following statements:  \u23E91. Carbon fibres are used in the manufacture of components used in automobiles and aircrafts.  \u23E92. Carbon fibres once used cannot be recycled. \u23E9 Which of the statements given above is/are correct?     [UPSC 2023 ]",
       "choices": [
         "(a) 1 only"     ,
         "(b) 2 only"      ,
@@ -401,7 +401,7 @@
       "correct": 0
     },{
       "number": 99,
-      "question": " Consider the following actions: \n1. Detection of car crash/collision which results in the deployment of airbags almost instantaneously \n2. Detection of accidental free fall of a laptop towards the ground which results in the immediate turning off of the hard drive \n3. Detection of the tilt of the smartphone which results in the rotation of display between portrait and landscape mode. \nIn how many of the above actions is the function of accelerometer required?   [UPSC 2023 ]",
+      "question": " Consider the following actions: \u23E91. Detection of car crash/collision which results in the deployment of airbags almost instantaneously \u23E92. Detection of accidental free fall of a laptop towards the ground which results in the immediate turning off of the hard drive \u23E93. Detection of the tilt of the smartphone which results in the rotation of display between portrait and landscape mode. \u23E9In how many of the above actions is the function of accelerometer required?   [UPSC 2023 ]",
       "choices": [
         "(a) Only one "     ,
         "(b) Only two"      ,
@@ -423,7 +423,7 @@
       "correct": 3
     },{
       "number": 99,
-      "question": "Consider the following statements: \n 1. Ballistic missiles are jet-propelled at subsonic speeds throughout their flights, while cruise missiles are rocket- powered only in the initial phase of flight. \n 2. Agni-V is a medium- range supersonic cruise missile, while BrahMos is a solid- fuelled intercontinental ballistic missile.\n  Which of the statements given above is/are correct?     [UPSC 2023 ]",
+      "question": "Consider the following statements: \u23E9 1. Ballistic missiles are jet-propelled at subsonic speeds throughout their flights, while cruise missiles are rocket- powered only in the initial phase of flight. \u23E9 2. Agni-V is a medium- range supersonic cruise missile, while BrahMos is a solid- fuelled intercontinental ballistic missile.\u23E9  Which of the statements given above is/are correct?     [UPSC 2023 ]",
       "choices": [
         "(a) 1 Only"     ,
         "(b) 2 Only"      ,

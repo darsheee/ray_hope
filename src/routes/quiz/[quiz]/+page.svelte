@@ -152,7 +152,7 @@
   {/if}
 
   {#if showAnswers && Object.keys(grouped).length > 1}
-    <div class="flex items-center gap-2 border-2 print:hidden">
+    <div class="flex items-center  gap-2 border-2 print:hidden">
       Show:
       {#each groupNames as name}
         {#if Object.keys(grouped).includes(name)}

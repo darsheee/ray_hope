@@ -39,14 +39,14 @@
   }
 </script>
 
-<div class="mb-8 mt-2 border-2 border-red-200/100">
+<div class="mb-2 p-1 mt-1 border-2 border-red-200/100">
   {#if showAnswer}
     {#if selection === undefined}
       <p class="font-bold text-blue-800 dark:text-blue-400">Not answered</p>
     {:else if isCorrect}
       <p class="font-bold text-green-800 dark:text-green-400">Correct</p>
     {:else}
-      <p class="font-bold text-red-800 dark:text-red-400">Incorrect</p>
+      <p class="font-bold text-red-900 dark:text-red-400">Incorrect</p>
     {/if}
   {/if}
   <h2 class="mb-1 font-medium">
