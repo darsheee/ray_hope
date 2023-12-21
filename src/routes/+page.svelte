@@ -11,8 +11,8 @@
 </script>
 
 <svelte:head>
-  <title>WebQuiz</title>
-  <meta name="og:title" content="WebQuiz" />
+  <title>CivilsApp</title>
+  <meta name="og:title" content="C" />
 </svelte:head>
 
 <main class="mx-auto max-w-3xl">
@@ -46,6 +46,15 @@
     {#each chapters as chapter}
       <QuizCard name="Chapter {chapter}" slug="apes_ch{chapter}" />
     {/each}
+    
+  </section>
+
+  <h2 class="mb-2 mt-6 text-2xl font-bold"> Polity Chapter</h2>
+  <section class="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
+    {#each chapters as chapter}
+      <QuizCard name="Polity  Chapter {chapter}" slug="polity_ch{chapter}" />
+    {/each}
+    
   </section>
 
  

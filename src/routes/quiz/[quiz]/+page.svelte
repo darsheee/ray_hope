@@ -105,7 +105,7 @@
 {/if}
 
 <svelte:head>
-  <title>{quizName} | WebQuiz</title>
+  <title>{quizName} | CivilsApp</title>
   <meta name="og:title" content={quizName} />
 </svelte:head>
 
