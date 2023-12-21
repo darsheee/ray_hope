@@ -8,7 +8,7 @@ const config = {
     extend: {
       colors: {
         gray: colors.stone,
-        primary: colors.red,
+        primary: colors.green,
       },
     },
   },

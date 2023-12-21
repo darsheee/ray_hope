@@ -9,14 +9,13 @@ const config = {
   kit: {
     adapter: process.env.VERCEL ? adapterVercel() : adapterNode(),
     serviceWorker: {
-      register: false,
+      register: true,
     },
     prerender: {
       crawl: true,
       entries: ["*"],
     },
-    }
-  
+  },
 };
 
 export default config;

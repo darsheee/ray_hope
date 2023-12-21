@@ -9,13 +9,13 @@
 </script>
 
 <div
-  class="mb-3 rounded-lg bg-white p-3 shadow-md   print:p-0 print:shadow-none"
+  class="mb-8 rounded-md bg-white p-4 shadow-md dark:bg-gray-900 dark:shadow-none print:p-0 print:shadow-none"
 >
   <h2 class="text-2xl font-bold">
-    Your's Marks : {correct} / {total} ({Math.round((correct / total) * 100)}%)
+    You scored: {correct} / {total} ({Math.round((correct / total) * 100)}%)
   </h2>
   {#if (grouped["Unanswered"]?.length ?? 0) > 0 && totalAnswered > 0}
-    Of the questions you answered, your's marks are : {correct} / {totalAnswered} ({Math.round(
+    Of the questions you answered, you scored {correct} / {totalAnswered} ({Math.round(
       (correct / totalAnswered) * 100
     )}%)
   {/if}

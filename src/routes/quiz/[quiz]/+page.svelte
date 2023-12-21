@@ -105,24 +105,23 @@
 {/if}
 
 <svelte:head>
-  <title>{quizName} | CivilsApp</title>
+  <title>{quizName} | WebQuiz</title>
   <meta name="og:title" content={quizName} />
 </svelte:head>
 
 <main class="mx-auto max-w-prose">
   <a href="/" class="mb-2 block font-medium underline print:hidden">&larr; Back Home</a>
-  <a href="/" class="mb-2 block font-medium underline print:hidden">&larr; Back Home</a>
   <h1 class="text-3xl font-bold">
     {quizName}
   </h1>
-  <!-- <div class="hidden break-before-avoid opacity-75 print:block">
+  <div class="hidden break-before-avoid opacity-75 print:block">
     <p>
       WebQuiz: a project by <a href="https://bswanson.dev"
         ><img src="https://bswanson.dev/favicon.svg" width={16} height={16} alt="" class="inline" />
         Brendan Swanson</a>
     </p>
     <p class="underline">https://webquiz.bswanson.dev/</p>
-  </div> -->
+  </div>
   <p class="mb-8">{questions.length} questions</p>
 
   {#if recoveredAnswers}
@@ -152,7 +151,7 @@
   {/if}
 
   {#if showAnswers && Object.keys(grouped).length > 1}
-    <div class="flex items-center  gap-2 border-2 print:hidden">
+    <div class="flex items-center gap-2 print:hidden">
       Show:
       {#each groupNames as name}
         {#if Object.keys(grouped).includes(name)}

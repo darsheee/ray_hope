@@ -39,14 +39,14 @@
   }
 </script>
 
-<div class="mb-2 p-1 mt-1 border-2 border-red-200/100">
+<div class="mb-8 mt-2 break-inside-avoid">
   {#if showAnswer}
     {#if selection === undefined}
-      <p class="font-bold text-blue-800 dark:text-blue-400">Not answered</p>
+      <p class="font-bold text-sky-800 dark:text-sky-400">Not answered</p>
     {:else if isCorrect}
       <p class="font-bold text-green-800 dark:text-green-400">Correct</p>
     {:else}
-      <p class="font-bold text-red-900 dark:text-red-400">Incorrect</p>
+      <p class="font-bold text-red-800 dark:text-red-400">Incorrect</p>
     {/if}
   {/if}
   <h2 class="mb-1 font-medium">
@@ -59,7 +59,7 @@
         type="radio"
         name={id}
         value={index}
-        class="border-gray-900 bg-gray-100 {showAnswer
+        class="border-gray-300 bg-gray-100 {showAnswer
           ? 'text-gray-600'
           : 'text-lime-600 focus:ring-2 focus:ring-lime-500'}"
         bind:group={selection}

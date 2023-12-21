@@ -1,8 +1,8 @@
 {
-  "unit_1": { "displayName": "Polity Chapters 1-2", "include": ["apes_ch1", "apes_ch2"] },
-  "unit_2": { "displayName": "Polity Chapters 3-4", "include": ["apes_ch3", "apes_ch4"] },
-  "unit_3": { "displayName": "Polity Chapters 5-6", "include": ["apes_ch5", "apes_ch6"] },
-  "unit_4": { "displayName": "Polity Chapters 7-8", "include": ["apes_ch7", "apes_ch8"] },
+  "unit_1": { "displayName": "Chapters 1-2", "include": ["apes_ch1", "apes_ch2"] },
+  "unit_2": { "displayName": "Chapters 3-4", "include": ["apes_ch3", "apes_ch4"] },
+  "unit_3": { "displayName": "Chapters 5-6", "include": ["apes_ch5", "apes_ch6"] },
+  "unit_4": { "displayName": "Chapters 7-8", "include": ["apes_ch7", "apes_ch8"] },
   "unit_5": { "displayName": "Chapters 9-11", "include": ["apes_ch9", "apes_ch10", "apes_ch11"] },
   "unit_6": { "displayName": "Chapters 12-13", "include": ["apes_ch12", "apes_ch13"] },
   "unit_7": { "displayName": "Chapters 14-16", "include": ["apes_ch14", "apes_ch15", "apes_ch16"] },
@@ -14,7 +14,7 @@
   },
   "complete_review": {
     "displayName": "Complete APES Review",
-    "include": ["polity_pyq", "modern_history_pyq", "pyq_current-affairs", "economics_pyq","art_pyq","ancient_history_pyq","medieval_history_pyq", "enviro_pyq","science_pyq", "apes_f22"]
+    "include": ["apes_rev1", "apes_rev2", "apes_rev3", "apes_f22"]
   },
   "everything": {
     "displayName": "Everything",
