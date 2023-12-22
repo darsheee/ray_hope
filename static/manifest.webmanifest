@@ -1,6 +1,6 @@
 {
-  "name": "WebQuiz",
-  "description": "Online quizzes to help you study for AP Environmental Science in-class exams and the AP exam.",
+  "name": "CivilsApp",
+  "description": "Online quizzes to help you study for UPSC Civils exams and the Prelims exam.",
   "categories": ["education"],
   "display": "fullscreen",
   "icons": [
