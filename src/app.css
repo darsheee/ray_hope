@@ -16,13 +16,13 @@
     "Helvetica Neue",
     sans-serif;
 
-  @apply bg-primary-50 text-primary-950 accent-primary-600 selection:bg-primary-400/40 selection:text-black print:bg-white print:text-black;
+  @apply  bg-gradient-to-br from-rose-400 to-orange-50 text-black selection:text-green-400 print:bg-white print:text-black;
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
     color-scheme: dark;
-    @apply bg-gray-800 text-white selection:bg-primary-400 selection:text-black;
+    @apply  bg-gradient-to-b from-gray-900 via-purple-900 to-violet-600 text-white selection:bg-primary-400 selection:text-black;
   }
 
   textarea,

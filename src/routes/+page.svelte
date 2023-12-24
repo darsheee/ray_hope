@@ -16,7 +16,7 @@
 </svelte:head>
 
 <main class="mx-auto max-w-3xl">
-  <h1 class="text-3xl font-bold">Select a Quiz</h1>
+  <h1 class="text-3xl font-bold">Civils.app</h1>
 
   <h2 class="mb-2 mt-6 text-2xl font-bold">By Unit</h2>
   <section class="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">

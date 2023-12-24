@@ -1,0 +1,438 @@
+{
+  "id": "science_pyq",
+  "displayName": "Science & Technology PYQ",
+  "questions": [
+   {
+      "number": 99,
+      "question": "A layer in the Earth's atmosphere called lonosphere facilitates radio communication. Why?  \u23E9 1. The presence of ozone causes the reflection of radio waves to Earth.  \u23E9 2. Radio waves have a very long wavelength. \u23E9  Which of the statements given above is/are correct?              [UPSC 2011]",
+      "choices": [
+        "(a) 1 only"    ,
+        "(b) 2 only"    ,
+        "(c) Both 1 and 2"     ,
+        "(d) Neither 1 nor 2 "     
+        
+      ],
+      "correct": 3
+    },{
+      "number": 99,
+      "question": " Which of the following is/are cited by the scientists as evidence/evidences for the continued expansion of universe? \u23E9 1. Detection of microwaves in space. \u23E9 2. Observation of redshift phenomenon in space. \u23E9 3. Movement of asteroids in space. 4. Occurrence of supernova explosion in space. \u23E9 Select the correct answer using the codes given below:                [UPSC 2012] ",
+      "choices": [
+        "(a) 1 and 2"    ,
+        "   (b) 2 only"      ,
+        " (c) 1, 3 and 4 "      ,
+        " d) None of the above "      
+        
+      ],
+      "correct": 0
+    },{
+      "number": 99,
+      "question": "Which of the following statements is/are correct? \u23E9 1. Viruses lack enzymes necessary for the generation of energy \u23E9 2. Viruses can be cultured in any synthetic medium. \u23E9 3. Viruses are transmitted from one organism to another by biological vectors only \u23E9  Select the correct answer using the codes given below  [UPSC 2013]",
+      "choices": [
+        "(a) 1 only",
+        "  (b) 2 and 3 only"      ,
+        " (c) 1 and 3 only"      ,
+        " (d) 1,2 and 3 "      
+        
+      ],
+      "correct": 0
+    },{
+      "number": 99,
+      "question": "Lichens, which are capable of initiating ecolological succession even on a bare rock, are actually a symbiotic association of [UPSC 2014]",
+      "choices": [
+        "(a) algae and bacteria"     ,
+        "(b) algae and fungi"      ,
+        "(c) bacteria and fungi"      ,
+        "(d) fungi and mosses"      
+        
+      ],
+      "correct": 1
+    },{
+      "number": 99,
+      "question": " The term 'Goldilocks Zone' is often seen in the news in the context of ___________>    [UPSC 2014 ]",
+      "choices": [
+        "(a) the limits of habitable zone above the surface of the Earth"     ,
+        " (b) regions inside the Earth where shale gas is available"      ,
+        "(c) search for the Earth-like planets in outer space"      ,
+        "(d) search for meteorites containing precious metals "      
+        
+      ],
+      "correct": 1
+    },
+    {
+      "number": 99,
+      "question": " In the context of the developments in Bioinformatics, the term 'transcriptome', sometimes seen in the news, refers to    [UPSC 2016 ]",
+      "choices": [
+        "(a) a range of enzymes used in genome editing"     ,
+        "(b) the full range of mRNA molecules expressed by an organism "      ,
+        "(c) the description of the mechanism of gene expression"      ,
+        " (d) a mechanism of genetic mutations taking place in cells"      
+        
+      ],
+      "correct": 1
+    },{
+      "number": 99,
+      "question": "What is the application of Somatic Cell Nuclear Transfer Technology?      [UPSC 2017 ]",
+      "choices": [
+        "(a) Production of biolarvicides"     ,
+        "(b) Manufacture of biodegradable plastics"      ,
+        "(c) Reproductive cloning of animals "      ,
+        "(d) Production of organisms free of diseases"      
+        
+      ],
+      "correct": 2
+    },{
+      "number": 99,
+      "question": "What is the purpose of 'evolved Laser Interferometer Space Antenna (eLISA)' project?   [UPSC 2017 ]",
+      "choices": [
+        "(a) To detect neutrinos"     ,
+        " (b) To detect gravitational waves"      ,
+        "(c) To detect the effectiveness of missile defence system "      ,
+        "(d) To study the effect of solar flares on our communication systems  "      
+        
+      ],
+      "correct": 1
+    },{
+      "number": 99,
+      "question": "The term 'sixth mass extinction/sixth extinction' is often mentioned in the news in the context of the discussion of ____________.     [UPSC 2018 ]",
+      "choices": [
+        "(a) Widespread monoculture practices in agriculture and large-scale commercial farming with indiscriminate use of chemicals in many parts of the world that may result in the loss of good native ecosystems."     ,
+        "(b) Fears of a possible collision of a meteorite with the Earth in the near future in the mannere it happened 65 million years ago that caused the mass extinction of many species including those of dinosaurs."      ,
+        "(c) Large scale cultivation of genetically modified crops in many parts of the world and promoting their cultivation in other parts of the world which may cause the disappearance of good native crop plants and the loss of food biodiversity."      ,
+        "(d) Mankind's over- exploitation/misuse of natural resources, framentation/loss of natural habitats, destruction of ecosystems, pollution and global climate change. "      
+        
+      ],
+      "correct": 3
+    },{
+      "number": 99,
+      "question": "Consider the following statements: \u23E9 1. Light is affected by gravity. \u23E9 2. The Universe is constantly expanding. \u23E9 3. Matter warps its surrounding space-time. \u23E9 Which of the above is/are the prediction/predictions of Albert Einstein's General Theory of Relativity, often discussed in media?   [UPSC 2018 ]",
+      "choices": [
+        "(a) 1 and 2 only"     ,
+        "(b) 3 only"      ,
+        "(c) 1 and 3 only"      ,
+        " (d) 1, 2 and 3 "      
+        
+      ],
+      "correct": 3
+    },{
+      "number": 99,
+      "question": "With reference to the recent developments in science, which one of the following statements is not correct?      [UPSC 2019 ]",
+      "choices": [
+        "(a) Functional chromosomes can be created by joining segments of DNA taken from cells of different species."     ,
+        "(b) Pieces of artificial functional DNA can be created in laboratories."      ,
+        "(c) A piece of DNA taken out from an animal cell can be made to replicate outside a living cell in a laboratory."      ,
+        "(d) Cells taken out from plants and animals can be made to undergo cell division in laboratory petri dishes. "      
+        
+      ],
+      "correct": 0
+    },{
+      "number": 99,
+      "question": "Recently, scientists observed the merger of giant 'blackholes' billions of light- years away from the Earth. What is the significance of this observation?      [UPSC 2019 ]",
+      "choices": [
+        "(a) 'Higgs boson particles' were detected."     ,
+        " (b) 'Gravitational waves' were detected."      ,
+        "(c) Possibility of inter-galactic space travel through 'wormhole' was confirmed."      ,
+        "(d) It enabled the scientists to understand 'singularity."      
+        
+      ],
+      "correct": 1
+    },{
+      "number": 99,
+      "question": "What is Cas9 protein that is often mentioned in news?       [UPSC 2019 ]",
+      "choices": [
+        "(a) A molecular scissors used in targeted gene editing"     ,
+        "(b) A biosensor used in the accurate detection of  pathogens in patients "      ,
+        "(c) A gene that makes plants pest-resistant"      ,
+        "(d) A herbicidal substance synthesized in genetically modified crops"      
+        
+      ],
+      "correct": 0
+    },{
+      "number": 99,
+      "question": "For the measurement/ estimation of which of the following are satellite images/remote sensing data used? \u23E9 1. Chlorophyll content in the vegetation of a specific location \u23E9 2. Greenhouse gas emissions from rice paddies of a specific location \u23E9 3. Land surface temperatures of a specific location. \u23E9 Select the correct answer using the code given below.       [UPSC 2019 ]",
+      "choices": [
+        "(a) 1 only"     ,
+        "(b) 2 and 3 only"      ,
+        "(c) 3 only"      ,
+        "(d) 1, 2 and 3"      
+        
+      ],
+      "correct": 3
+    },{
+      "number": 99,
+      "question": "The experiment will employ a trio of spacecraft flying in formation in the shape of an equilateral triangle that has sides one million kilometers long, with lasers shining between the craft. The experiment in question refers to      [UPSC 2020 ]",
+      "choices": [
+        "(a) Voyager-2"     ,
+        "(b) New Horizons"      ,
+        "(c) LISA Pathfinder "      ,
+        "(d) Evolved LISA"      
+        
+      ],
+      "correct": 3
+    },{
+      "number": 99,
+      "question": "In the context of recent advances in human reproductive technology. 'Pronuclear Transfer' is used for _______________.     [UPSC 2020 ]",
+      "choices": [
+        "(a) fertilization of egg in vitro by the donor sperm"     ,
+        "(b) genetic modification of sperm producing cells "      ,
+        "(c) development of stem cells into functional embryos"      ,
+        "(d) prevention of mitochondrial diseases in offspring "      
+        
+      ],
+      "correct": 3
+    },{
+      "number": 99,
+      "question": "With reference 'Blockchain to Technology' consider the following statements: \u23E9 1. It is a public ledger that everyone we inspect, but which no single user controls \u23E9 2. The structure and design of blockchain is such that all the data in it are about crypto currency only. \u23E9 3. Applications that depend on basic features of blockchain can be developed without anybody's permission. \u23E9 Which of the statements given above is/are correct?      [UPSC 2020 ]",
+      "choices": [
+        "(a) 1 only"     ,
+        "(b) 1 and 2 only"      ,
+        "(c) 2 only"      ,
+        "(d) 1 and 3 only "      
+        
+      ],
+      "correct": 3
+    },{
+      "number": 99,
+      "question": "Bollgard I and Bollgard II technologies are mentioned in the context of     [UPSC 2021 ]",
+      "choices": [
+        "(a) clonal propagation of crop plants"     ,
+        "(b) developing genetically modified crop plants"      ,
+        " (c) production of plant growth substances"      ,
+        "(d) production of biofertilizers "      
+        
+      ],
+      "correct": 1
+    },{
+      "number": 99,
+      "question": " In a pressure cooker, the temperature at which the food is cooked depends mainly upon which of the following? 1. Area of the hole in the lid 2. Temperature of the flame 3. Weight of the lid Select the correct answer using the code given below.   ( [UPSC 2021 ]",
+      "choices": [
+        "(a) 1 and 2 only"     ,
+        "(b) 2 and 3 only"      ,
+        " (c) 1 and 3 only"      ,
+        "d) 1, 2 and 3 "      
+        
+      ],
+      "correct": 2
+    },{
+      "number": 99,
+      "question": "Consider the following: \u23E9 1.Bacteria \u23E9 2.Fungi \u23E9 3.Virus. \u23E9 Which of the above can be cultured in artificial/synthetic medium?   [UPSC 2021 ]",
+      "choices": [
+        "(a) 1 and 2 only"     ,
+        " (b) 2 and 3 only"      ,
+        "(c) 1 and 3 only"      ,
+        "  (d) 1, 2 and 3 "      
+        
+      ],
+      "correct": 1
+    },{
+      "number": 99,
+      "question": "Consider the following statements: \u23E9 1.Adenoviruses have single- stranded DNA genomes whereas retroviruses have double-stranded DNA genomes. \u23E9 2.Common cold is sometime caused by an adenovirus whereas AIDS is caused by a retrovirus. \u23E9 Which of the statements given above is/are correct?      [UPSC 2021 ]",
+      "choices": [
+        "(a) 1 only"     ,
+        "(b) 2 only"      ,
+        " (c) Both 1 and 2"      ,
+        "(d) Neither 1 nor 2"      
+        
+      ],
+      "correct": 1
+    },{
+      "number": 99,
+      "question": " Water can dissolve more substances than any other liquid because  ________________.    [UPSC 2021 ]",
+      "choices": [
+        "(a) it is dipolar in nature"     ,
+        "(b) it is a good conductor of heat "      ,
+        "(c) it has high value of specific heat "      ,
+        "(d) it is an oxide of hydrogen"      
+        
+      ],
+      "correct": 0
+    },{
+      "number": 99,
+      "question": "Bisphenol A (BPA), a cause of concern, is a structural/key component in the manufacture of which of the following kinds of plastics?     [UPSC 2021 ]",
+      "choices": [
+        "(a) Low-density polyethylene"     ,
+        " (b) Polycarbonate"      ,
+        " (c) Polyethylene terephthalate"      ,
+        "(d) Polyvinyl chloride"      
+        
+      ],
+      "correct": 1
+    },{
+      "number": 99,
+      "question": " 'Triclosan', considered harmful when exposed to high levels for a long time, is most likely present in which of the following?     [UPSC 2021 ]",
+      "choices": [
+        "(a) Food preservatives"     ,
+        " (b) Fruit-ripening substances"      ,
+        "(c) Reused plastic containers"      ,
+        "(d) Toiletries"      
+        
+      ],
+      "correct": 3
+    },{
+      "number": 99,
+      "question": " Which one of the following is a reason why astronomical distances are measured in light-years?     [UPSC 2021 ]",
+      "choices": [
+        "(a) Distances among stellar bodies do not change."     ,
+        "(b) Gravity of stellar bodies does not change."      ,
+        "(c) Light always travels in straight line."      ,
+        "(d) Speed of light is always same. "      
+        
+      ],
+      "correct": 3
+    },{
+      "number": 99,
+      "question": "Which one of the following statements best reflects the idea behind the 'Fractional Orbital Bombardment System' often talked about in media ?      [UPSC 2022 ]",
+      "choices": [
+        "(a) A hypersonic missile is launched into space to counter the asteroid approaching the Earth and explode it in space."     ,
+        "(b) A spacecraft lands motions."      ,
+        "(c) A missile is put into a stable orbit around the Earth and deorbits over a target on the Earth."      ,
+        "(d) A spacecraft moves along a comet with the same speed and places a probe on its surface. "      
+        
+      ],
+      "correct": 2
+    },{
+      "number": 99,
+      "question": "Which one of the following-is the context in which the term 'qubit' is mentioned ?      [UPSC 2022 ]",
+      "choices": [
+        "(a) Cloud Services"     ,
+        "(b) Quantum Computing"      ,
+        "(c) Visible Light Communication Technologies"      ,
+        " (d) Wireless Communication Technologies"      
+        
+      ],
+      "correct": 1
+    },{
+      "number": 99,
+      "question": "Consider following communication the technologies: \u23E91. Closed-circuit Television \u23E92. Radio Frequency Identification \u23E93. Wireless Local Area Network. \u23E9Which of the above are considered Short- Range devices/technologies?      [UPSC 2022 ]",
+      "choices": [
+        "(a) 1 and 2 only"     ,
+        "(b) 2 and 3 only"      ,
+        "(c) 1 and 3 only"      ,
+        "(d) 1, 2 and 3 "      
+        
+      ],
+      "correct": 3
+    },{
+      "number": 99,
+      "question": "Consider the following statements: \u23E91. Biofilms can form on medical implants within human tissues. \u23E92. Biofilms can form on food and food processing surfaces. \u23E93. Biofilms can exhibit antibiotic resistance. \u23E9Which of the statements given above are correct?      [UPSC 2022 ]",
+      "choices": [
+        "(a) 1 and 2 only"     ,
+        "(b) 2 and 3 only"      ,
+        "(c) 1 and 3 only"      ,
+        "(d) 1, 2 and 3 "      
+        
+      ],
+      "correct": 3
+    },{
+      "number": 99,
+      "question": "Consider the following statements in respect of probiotics: \u23E91. Probiotics are made of both bacteria and yeast. \u23E92. The organisms in probiotics are found in foods we ingest but they do not naturally occur in our gut. \u23E93. Probiotics help in the digestion of milk sugars. \u23E9Which of the statements given above is/are correct?     [UPSC 2022 ]",
+      "choices": [
+        "(a) 1 only"     ,
+        "(b) 2 only"      ,
+        "(c) 1 and 3"      ,
+        " (d) 2 and 3 "      
+        
+      ],
+      "correct": 2
+    },{
+      "number": 99,
+      "question": "Consider the following statements: DNA Barcoding can be a tool to: \u23E9 1. assess the age of a plant or animal. \u23E9 2. distinguish among species that look alike. \u23E9 3. identify undesirable animal or plant materials in processed foods. \u23E9 Which of the statements given above is/are correct?      [UPSC 2022 ]",
+      "choices": [
+        "(a) 1 only"     ,
+        "(b) 3 only"      ,
+        "(c) 1 and 2"      ,
+        "(d) 2 and 3 "      
+        
+      ],
+      "correct": 3
+    },{
+      "number": 99,
+      "question": "Consider the following statements: \u23E91. Other than those made by humans, nanoparticles do not exist in nature. \u23E92. Nanoparticles of some metallic oxides are used in the manufacture of some cosmetics. \u23E93. Nanoparticles of some commercial products which enter the environment are unsafe for humans. \u23E9Which of the statements given above is/are correct?    [UPSC 2022 ]",
+      "choices": [
+        "(a) 1 only"     ,
+        "(b) 3 only"      ,
+        " (c) 1 and 2"      ,
+        " (d) 2 and 3 "      
+        
+      ],
+      "correct": 3
+    },{
+      "number": 99,
+      "question": "Which one of the following statements best describes the role of B cells and T cells in the human body?      [UPSC 2022 ]",
+      "choices": [
+        "(a) They protect the body from environmental allergens."     ,
+        "(b) They alleviate the body's pain and inflammation."      ,
+        "(c) They act as immunosuppressants in the body."      ,
+        "(d) They protect the body from the diseases caused by pathogens. "      
+        
+      ],
+      "correct": 3
+    },{
+      "number": 99,
+      "question": " Aerial metagenomics' best refers to which one of the following situations?     [UPSC 2023 ]",
+      "choices": [
+        "(a) Collecting DNA samples from air in a habitat at one go"     ,
+        "(b) Understanding the genetic makeup of avian species of a habitat"      ,
+        "(c) Using air-borne devices to collect blood samples from moving animals"      ,
+        "(d) Sending drones to inaccessible areas to collect plant and animal samples from land surfaces and water bodies "      
+        
+      ],
+      "correct": 0
+    },{
+      "number": 99,
+      "question": "Microsatellite DNA' is used in the case of which one of the following?      [UPSC 2023 ]",
+      "choices": [
+        "(a) Studying the evolutionary relationships among various species of fauna"     ,
+        "(b) Stimulating 'stem cells' to transform into diverse functional tissues"      ,
+        "(c) Promoting clonal propagation of horticultural plants"      ,
+        "(d) Assessing the efficacy of drugs by conducting series of drug trials in a population "      
+        
+      ],
+      "correct": 0
+    },{
+      "number": 99,
+      "question": "Consider the following statements:  \u23E91. Carbon fibres are used in the manufacture of components used in automobiles and aircrafts.  \u23E92. Carbon fibres once used cannot be recycled. \u23E9 Which of the statements given above is/are correct?     [UPSC 2023 ]",
+      "choices": [
+        "(a) 1 only"     ,
+        "(b) 2 only"      ,
+        "(c) Both 1 and 2 "      ,
+        "(d) Neither 1 nor 2 "      
+        
+      ],
+      "correct": 0
+    },{
+      "number": 99,
+      "question": " Consider the following actions: \u23E91. Detection of car crash/collision which results in the deployment of airbags almost instantaneously \u23E92. Detection of accidental free fall of a laptop towards the ground which results in the immediate turning off of the hard drive \u23E93. Detection of the tilt of the smartphone which results in the rotation of display between portrait and landscape mode. \u23E9In how many of the above actions is the function of accelerometer required?   [UPSC 2023 ]",
+      "choices": [
+        "(a) Only one "     ,
+        "(b) Only two"      ,
+        "(c) All three"      ,
+        " (d) None "      
+        
+      ],
+      "correct": 2
+    },{
+      "number": 99,
+      "question": "Which one the following countries has its own Satellite Navigation System?      [UPSC 2023 ]",
+      "choices": [
+        "(a) Australia"     ,
+        "(b) Canada"      ,
+        "(c) Israel"      ,
+        "(d) Japan "      
+        
+      ],
+      "correct": 3
+    },{
+      "number": 99,
+      "question": "Consider the following statements: \u23E9 1. Ballistic missiles are jet-propelled at subsonic speeds throughout their flights, while cruise missiles are rocket- powered only in the initial phase of flight. \u23E9 2. Agni-V is a medium- range supersonic cruise missile, while BrahMos is a solid- fuelled intercontinental ballistic missile.\u23E9  Which of the statements given above is/are correct?     [UPSC 2023 ]",
+      "choices": [
+        "(a) 1 Only"     ,
+        "(b) 2 Only"      ,
+        "(c) Both 1 and 2 "      ,
+        "(d) Neither 1 nor 2"      
+        
+      ],
+      "correct": 3
+    }
+    
+  ]
+}
