@@ -22,7 +22,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     color-scheme: dark;
-    @apply  bg-gradient-to-bl from-gray-900 via-gray-800 to-red-900 text-white selection:bg-primary-400 selection:text-black;
+    @apply  bg-gradient-to-br from-gray-900 via-gray-800 to-red-900 text-white selection:bg-primary-400 selection:text-black;
   }
 
   textarea,
