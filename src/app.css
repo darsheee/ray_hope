@@ -16,7 +16,7 @@
     "Helvetica Neue",
     sans-serif;
 
-  @apply bg-gradient-to-tl from-amber-50 to-red-100 print:bg-white print:text-black;
+  @apply bg-gradient-to-t from-amber-50 to-red-100 print:bg-white print:text-black;
 }
 
 @media (prefers-color-scheme: dark) {
