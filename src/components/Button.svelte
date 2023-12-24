@@ -14,5 +14,5 @@
 <button
   on:click
   {type}
-  class="{classes} rounded-md px-3 py-1 font-medium transition-colors dark:border-gray-700 dark:bg-gray-900 dark:text-white dark:hover:bg-gray-950 dark:focus:border-gray-700 dark:focus:bg-gray-800">
+  class="{classes} rounded-md px-3 py-1 font-medium transition-colors dark:border-gray-700 dark:bg-white-500 dark:text-white dark:hover:bg-gray-950 dark:focus:border-gray-700 dark:focus:bg-gray-800">
   <slot /></button>
