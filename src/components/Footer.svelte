@@ -1,4 +1,4 @@
-<footer class="-mx-4 mt-24 bg-primary-100 py-6 dark:bg-neutral-900 print:hidden">
+<!-- <footer class="-mx-4 mt-24 bg-primary-100 py-6 dark:bg-neutral-900 print:hidden">
   <div class="container mx-auto px-2">
     <h2 class="text-3xl font-bold"><a href="/">WebQuiz</a></h2>
     <div class="flex flex-col gap-4 lg:flex-row lg:justify-between">
@@ -42,4 +42,4 @@
       </div>
     </div>
   </div>
-</footer>
+</footer> -->

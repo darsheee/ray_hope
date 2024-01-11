@@ -11,8 +11,8 @@
 </script>
 
 <svelte:head>
-  <title>WebQuiz</title>
-  <meta name="og:title" content="WebQuiz" />
+  <title>Civils.app</title>
+  <meta name="og:title" content="Civils.app" />
 </svelte:head>
 
 <main class="mx-auto max-w-3xl">
