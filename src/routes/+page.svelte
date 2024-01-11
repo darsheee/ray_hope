@@ -34,6 +34,16 @@
 
   <h2 class="mb-2 mt-6 text-2xl font-bold">Review the Course</h2>
   <section class="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-4">
+    <QuizCard name="Indian Polity " slug="polity_pyq" />
+    <QuizCard name="Ancient History " slug="ancient_history_pyq" />
+    <QuizCard name="Medieval History " slug="medieval_history_pyq" />
+    <QuizCard name="Modern India " slug="modern_history_pyq" />
+    <QuizCard name="Economics " slug="economics_pyq" />
+    <QuizCard name="Geography " slug="geography_pyq" />
+    <QuizCard name="Environment " slug ="enviro_pyq"/>
+    <QuizCard name="Science & Technology " slug ="science_pyq"/>
+    <QuizCard name="Current Affairs " slug ="pyq_current-affairs"/>
+    
     <QuizCard name="Review Quiz 1" slug="apes_rev1" />
     <QuizCard name="Review Quiz 2" slug="apes_rev2" />
     <QuizCard name="Review Quiz 3" slug="apes_rev3" />
