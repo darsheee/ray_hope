@@ -110,14 +110,14 @@
 </svelte:head>
 
 <main class="mx-auto max-w-prose">
-  <a href="/" class="mb-2 my-20 block font-medium underline print:hidden">&larr; Back Home</a>
-  <h1 class="text-3xl font-bold">
+  <a href="/" class="mb-2 my-2 block font-medium underline print:hidden">&larr; Back Home</a>
+  <h1 class="text-xl font-bold">
     {quizName}
   </h1>
   <div class="hidden break-before-avoid opacity-75 print:block">
     
   </div>
-  <p class="mb-8">{questions.length} questions</p>
+  <p class="mb-2">{questions.length} questions</p>
 
   {#if recoveredAnswers}
     <p>

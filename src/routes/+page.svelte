@@ -18,7 +18,7 @@
 <main class="mx-auto max-w-3xl">
   <!-- <h1 class="text-3xl font-bold">Civils.app</h1> -->
 
-  <h2 class="mb-2 mt-6 text-2xl font-bold">Previous Year Questions (1995 - 2023)</h2>
+  <h2 class="mb-2 mt-6 text-xl font-bold">Previous Year Questions (1995 - 2023)</h2>
   <section class="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-4">
    
     <QuizCard name="Ancient History " slug="ancient_history_pyq" />
@@ -40,14 +40,14 @@
     <QuizCard class="sm:col-span-2" name="Everything" slug="everything" />
   </section>
 
-  <h2 class="mb-2 mt-6 text-2xl font-bold">By Unit</h2>
+  <h2 class="mb-2 mt-6 text-xl font-bold">By Unit</h2>
   <section class="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
     {#each units as unit}
       <QuizCard name={collections[unit].displayName} slug={unit} />
     {/each}
   </section>
 
-  <h2 class="mb-2 mt-6 text-2xl font-bold">By Textbook Chapter</h2>
+  <h2 class="mb-2 mt-6 text-xl font-bold">By Textbook Chapter</h2>
   <section class="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
     {#each chapters as chapter}
       <QuizCard name="Chapter {chapter}" slug="apes_ch{chapter}" />

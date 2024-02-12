@@ -9,9 +9,9 @@
 </script>
 
 <div
-  class="mb-8 rounded-md bg-white p-4 shadow-md  print:p-0 print:shadow-none"
+  class="mb-2 rounded-md bg-white p-2 shadow-md  print:p-0 print:shadow-none"
 >
-  <h2 class="text-2xl  font-bold">
+  <h2 class="text-sm  font-bold">
     You scored: {correct} / {total} ({Math.round((correct / total) * 100)}%)
   </h2>
   {#if (grouped["Unanswered"]?.length ?? 0) > 0 && totalAnswered > 0}
