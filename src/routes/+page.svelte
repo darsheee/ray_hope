@@ -11,8 +11,8 @@
 </script>
 
 <svelte:head>
-  <title>Civils.app</title>
-  <meta name="og:title" content="Civils.app" />
+  <title>upsc.study</title>
+  <meta name="og:title" content="upsc.study" />
 </svelte:head>
 
 <main class="mx-auto max-w-3xl">
