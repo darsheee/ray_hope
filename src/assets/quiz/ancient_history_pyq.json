@@ -3,12 +3,858 @@
   "displayName": " Ancient History PYQ",
   "questions": [
     {
+      "question": " The word 'Hindu' as reference to the people of Hind (India) was first used by: [1995]  ",
+      "choices": [
+        " the Greeks   "        , 
+        "  the Romans   "            ,   
+        "  the Chinese    "                  , 
+        "  the Arabs  "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    },
+    {
+      "question": " Who among the following was a Brahmavadini who composed some hymns of the Vedas? [1995]   ",
+      "choices": [
+        " Lopamudra   "        , 
+        "   Gargi  "            ,   
+        "  Leelavati  "                  , 
+        "  Savitri  "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    },{
+      "question": "In Sanskrit plays written during the Gupta period women and Sudras speak:  ",
+      "choices": [
+        " Sanskrit   "        , 
+        "   Prakrit  "            ,   
+        "  Pali  "                  , 
+        "  Sauraseni  "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": " The name by which Ashoka is generally referred to his inscriptions is:  [1995]   ",
+      "choices": [
+        " Chakravarti   "        , 
+        "   Dharmadeva  "            ,   
+        "  Dharmakirti  "                  , 
+        "   Priyadarsi "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    },{
+      "question": "The term 'Yavanapriya' mentioned in ancient Sanskrit texts denoted: [1995]   ",
+      "choices": [
+        "  a fine variety of Indian Muslin   "        , 
+        "  ivory   "            ,   
+        "  damsels sent to the Greek court for dance performance   "                  , 
+        "   pepper "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    },{
+      "question": "The concept of Anuvrata was advocated by:  [1995]  ",
+      "choices": [
+        " Mahayana Buddhism   "        , 
+        "  Hinayana Buddhism   "            ,   
+        "  Jainism  "                  , 
+        "  The Lokayata school  "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": "According to Mimamsa system of philosophy, liberation is possible by means by: [1995]   ",
+      "choices": [
+        " jnana   "        , 
+        "  bhakti   "            ,   
+        "  yoga  "                  , 
+        "  karma  "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    },{
+      "question": "Bronze icons of Nataraja cast during the Chola period invariably show the deity with: [1995]    ",
+      "choices": [
+        " eight hands   "        , 
+        "  six hands    "            ,   
+        "  four hands   "                  , 
+        "   two hands "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    },{
+      "question": "According to ancient Indian cosmogonic ideas the sequential order of the cycle of four acons (yugas) is:     [1996]    ",
+      "choices": [
+        "  Dvapara, Krita, Treta and Kali  "        , 
+        "   Krita, Dvapara, Treta and Kali   "            ,   
+        "  Krita, Treta, Dvapara and Kali  "                  , 
+        "    Treta, Dvapara, Kali and Krita "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    },{
+      "question": "The river most is  mentioned in early Vedic literature ________. [1996]   ",
+      "choices": [
+        "  Sindhu  "        , 
+        "  Sutudri   "            ,   
+        "   Sarasvati "                  , 
+        "   Ganga "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    },{
+      "question": "Which one of the following is not a part of early Jains literature?   [1996]    ",
+      "choices": [
+        " Therigatha   "        , 
+        "   Acarangasutra    "            ,   
+        "  Sutrakritanga  "                  , 
+        " Brihatkalpasutra "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    },{
+      "question": "Which of the following were common to both Buddhism and Jainism? [1996] \n  1.Avoidance of extremities of penance and enjoyment \n  2.Indifference to the authority of the Vedas \n  3.Denial ofefficacy ofrituals \n  4.Non-injuryto animal life. \n  Select the answer using the codes given below:  ",
+      "choices": [
+        "1,2,3 & 4    "        , 
+        "  2,3 & 4   "            ,   
+        "  1, 3 and 4  "                  , 
+        "  1 & 2  "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": "In the context of ancient Indian society which one of the following terms does not belong to the category of the other three?   [1996]   ",
+      "choices": [
+        "  Kula  "        , 
+        "  Vamsa   "            ,   
+        "  Kosa  "                  , 
+        "   Gotra "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    },{
+      "question": " Who among the following is known for his work on medicine during the Gupta period? [1996]  ",
+      "choices": [
+        " Saumilla   "        , 
+        "  Sudraka   "            ,   
+        "  Shaunaka  "                  , 
+        "   Susrutha "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    },{
+      "question": "Which one of the following sculptures was invariably used green schist as the medium? [1996]         ",
+      "choices": [
+        " Maurya sculptures    "        , 
+        "   Mathura sculptures  "            ,   
+        "   Bharhut sculptures "                  , 
+        "   Gandhara sculptures "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    },{
+      "question": "Which one of the following texts of ancient India allows divorce to a wife deserted by her husband? [1996]    ",
+      "choices": [
+        " Kamasutra   "        , 
+        "   Manava Dharma Shastra  "            ,   
+        "   Sukra Nitisara "                  , 
+        "   Arthashastra "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    },{
+      "question": "Which one of the following statements regarding Ashoka stone pillars is incorrect? [1997]    ",
+      "choices": [
+        "  These are highly polished  "        , 
+        "  These are monolithic   "            ,   
+        "  The shaft of pillars is tapering in shape  "                  , 
+        "   These are parts of architectural structures "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    },{
+      "question": "Which one of the following scripts of ancient India was written from right to left? [1997]     ",
+      "choices": [
+        " Brahmi   "        , 
+        "  Nandnagari   "            ,   
+        "   Sharada  "                  , 
+        "   Kharosthi "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    },{
+      "question": " The famous dialogue between Nachiketa and Yama is mentioned in the: [1997]   ",
+      "choices": [
+        " Chhandogyopanishad    "        , 
+        "  Mundakopanishad   "            ,   
+        "  Kathopanishad   "                  , 
+        "   Kenopanishad  "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    },{
+      "question": "Milindapanho is in the form of a dialogue between the king Menander and Buddhist monk: [1997]    ",
+      "choices": [
+        "  Nagasena  "        , 
+        "    Nagarjuna "            ,   
+        "  Nagabhatta  "                  , 
+        "   Kumarilabhatta "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    },{
+      "question": " Which one of the following edicts mentions the personal name of Ashoka? [1997]  ",
+      "choices": [
+        " Kalsi   "        , 
+        "  Rummindei   "            ,   
+        "   Special Kalinga Edict "                  , 
+        "   Maski "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    },{
+      "question": " In the Mahayana Buddhism, the Bodhisatva Avalokitesvara was also known as:  ",
+      "choices": [
+        " Vajrapani   "        , 
+        "   Manjusri  "            ,   
+        "  Padmapani  "                  , 
+        "   Maitreya "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    },{
+      "question": "The silver coins issued by the Guptas were called:  [1997]   ",
+      "choices": [
+        "  Rupaka  "        , 
+        "  Karshapana   "            ,   
+        "   Dinara "                  , 
+        "   Pana "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    },{
+      "question": " Which one of the following was a corporation of merchants in ancient India? [1997]      ",
+      "choices": [
+        " Chaturvedimangalam   "        , 
+        "  Parishad   "            ,   
+        "  Ashtadikgaja  "                  , 
+        "  Manigrama  "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    },{
+      "question": "The Badami rock inscription of Pulakesin I is dated in the Saka year 465. If the same were to be dated in Vikrama Samvat, the year would be:   [1997]   ",
+      "choices": [
+        "  601   "        , 
+        "  300   "            ,   
+        "  330  "                  , 
+        "  407   "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    },{
+      "question": "Many of the Greeks, Kushanas and Shakas embraced uddhism rather than Hinduism because: [1998]   ",
+      "choices": [
+        " Buddhism was in the ascendant at that time   "        , 
+        "   they had renounced the policy of war and violence  "            ,   
+        "   aste-ridden Hinduism did not attract them "                  , 
+        "   Buddhism provided easier access to Indian society "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    },{
+      "question": "The Ashoka major rock edicts which tell us about the Sangam Kingdom include rock edicts: [1998]   ",
+      "choices": [
+        "   I & X  "        , 
+        "  I & XI   "            ,   
+        "  II & XIII  "                  , 
+        "  II & XIV  "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    },{
+      "question": " What is the correct chronological order in which the following appeared in India? [1998] \n l. Gold coins \n 2. Punch marked silver coins \n 3. Iron plough \n 4. Urban culture \n Select the correct answer using the codes given below:  ",
+      "choices": [
+        " 3,4,1,2   "        , 
+        "  3,4,2,1   "            ,   
+        "  4,3,1,2  "                  , 
+        "  4,3,2,1  "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    },{
+      "question": " Assertion : According to Ashoka's edicts social harmony among the people was more important than religious devotion. \n Reason (R): He spread ideas of equity instead of promotion of religion. [1998]   ",
+      "choices": [
+        "   Both A and R are true but R is the correct explanation of A "        , 
+        "  Both A and R are true but R is not a correct explanation of A   "            ,   
+        "  A is true but R is false  "                  , 
+        "    A is false but R is true "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": "Which one of the following ancient Indian records is the earliest royal order to preserve food-grains to be utilised during the crises in the country? [1998] ",
+      "choices": [
+        "  Sohgaura Copper-plate  "        , 
+        "   Rummindei Pillar-edict of Ashoka  "            ,   
+        "  Prayaga-prasasti  "                  , 
+        "  Mehrauli Pillar inscription of Chandra  "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    },{
+      "question": "The concept ofEight fold path forms the theme of: [1998]      ",
+      "choices": [
+        "  Dipavamsa  "        , 
+        "  Divyavadana   "            ,   
+        "   Mahaparinibban "                  , 
+        "   Dharma Chakara Pravartana Sutta "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    },{
+      "question": "From the third century AD when the Hun invasion ended the Roman Empire, the Indian merchants relied more and more on the: [1999]  ",
+      "choices": [
+        "  African trade  "        , 
+        "  West-European trade    "            ,   
+        "  South-East Asian trade  "                  , 
+        "  Middle-Eastern trade  "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    },{
+      "question": "The following persons came to India at one time or another: \n 1. Fa-Hien \n 2. I-Tsing \n 3. Megasthanese \n 4. Hieun-Tsang \n The correct chronological sequence of their visits is: [1999]   ",
+      "choices": [
+        " 3,1,2,4   "        , 
+        "  3,1,4,2   "            ,   
+        "   1,3,2,4 "                  , 
+        "  1,3,4,2  "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": " Which one of the following was initially the most powerful city state of India in the 6th century B.C. ? [1999]   ",
+      "choices": [
+        " Gandhar   "        , 
+        "  Kamboj   "            ,   
+        "   Kashi "                  , 
+        "   Magadh "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    },{
+      "question": " The Indo-Laws Kingdom set up in north Afghanistan in the beginning of the second century B.C. was: [1999]  ",
+      "choices": [
+        " Bactria   "        , 
+        "   Zedrasia  "            ,   
+        "   Scythia "                  , 
+        "   Aria "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    },{
+      "question": " Which one of the following ports handled the North Indian trade during the Gupta period? [1999]   ",
+      "choices": [
+        " Tamralipti   "        , 
+        "   Broach  "            ,   
+        "   Kalyan "                  , 
+        "   Cambray "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    },{
+      "question": " Assertion : The Aham and Puram poems of the Padinen Kilukanakku group formed a continuation of the Sangam composition. Reason (R): They were included under the post-Sangam Reason works as against the Sangam works proper. [2000] ",
+      "choices": [
+        "   Both A and R are true but R is the correct explanation of A "        , 
+        "  Both A and R are true but R is not a correct explanation of A   "            ,   
+        "  A is true but R is false  "                  , 
+        "    A is false but R is true "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    },{
+      "question": "Assertion : The emphasis of Jainism on non-violence (ahimsa) prevented agriculturalists from embracing Jainism. Reason(R): Cultivation involved killing ofinsects and pests.  [2000]  ",
+      "choices": [
+        "   Both A and R are true but R is the correct explanation of A "        , 
+        "  Both A and R are true but R is not a correct explanation of A   "            ,   
+        "  A is true but R is false  "                  , 
+        "    A is false but R is true "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    },{
+      "question": "Assertion : The origin of feudal system in ancient India can be traced to military campaigns. Reason (R): There was considerable expansion of the feudal system during the Gupta period. [2000]  ",
+      "choices": [
+        "   Both A and R are true but R is the correct explanation of A "        , 
+        "  Both A and R are true but R is not a correct explanation of A   "            ,   
+        "  A is true but R is false  "                  , 
+        "    A is false but R is true "  
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": "Assertion : Ashoka annexed Kalinga to the Mauryan Empire. Reason (R): Kalinga controlled the land and sea routes to South India. [2000]  ",
+      "choices": [
+        "   Both A and R are true but R is the correct explanation of A "        , 
+        "  Both A and R are true but R is not a correct explanation of A   "            ,   
+        "  A is true but R is false  "                  , 
+        "    A is false but R is true "  
+        ],
+      "number": 99,
+      "correct": 0
+    },{
+      "question": " The practice of military governorship was first introduced in India by the:  [2000]  ",
+      "choices": [
+        "  Greeks  "        , 
+        "   Shakas  "            ,   
+        "   Parthians "                  , 
+        "   Mughals "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    },{
+      "question": "Which one of the following dynasties was ruling over North India at the time ofAlexander's invasion? [2000]   ",
+      "choices": [
+        "  Nanda  "        , 
+        "   Maurya  "            ,   
+        "  Sunga  "                  , 
+        "  Kanva  "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    },{
+      "question": "Hoysala monuments are found in:  ",
+      "choices": [
+        "   Hampi and Hosper  "        , 
+        "   Halebid and Belur  "            ,   
+        "  Mysore and Bangalore   "                  , 
+        "   Sringeri and Dharwar "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": "Which one of the following pairs is correctly matched?  [2001]     ",
+      "choices": [
+        "  The Harappan civilization — Painted Greyware   "        , 
+        "  The Kushans — Gandhra School of Art   "            ,   
+        "   The Mughals — Ajanta Paintings "                  , 
+        "   The Marathas — Pahari School of Painting "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": "Harshavardhana convened the Prayag Assertion : Assembly. Reason (R): He wanted to popularize only the Mahayana Reason   ",
+      "choices": [
+        "   Both A and R are true but R is the correct explanation of A "        , 
+        "  Both A and R are true but R is not a correct explanation of A   "            ,   
+        "  A is true but R is false  "                  , 
+        "    A is false but R is true "  
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": " Who among the following presided over the Buddhist Council held during the reign of Kanishka at Kashmir ?  [2001]   ",
+      "choices": [
+        " Parsva   "        , 
+        "  Nagarjuna   "            ,   
+        "   Sudraka "                  , 
+        "  Vasumitra  "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    },{
+      "question": "Which one of the following animals was not represented seals and terracotta art of the Harappan culture? [2001]   ",
+      "choices": [
+        "  Cow  "        , 
+        "   Elephant  "            ,   
+        "   Rhinoceros "                  , 
+        "   Tiger "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    },{
+      "question": " Which one of the following statements is not correct? [2002] ",
+      "choices": [
+        " The statue of Gomateshwara at Shravana Belagola represents the last Tirthankara of Jains.   "        , 
+        "  India's largest Buddhist monastery is in Arunachal Pradesh.   "            ,   
+        "   Khajuraho temples were built under Chandela kings. "                  , 
+        "  Hoysaleswara tem le is dedicated to Siva.   "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    },{
+      "question": "In ancient Indian Buddhist monasteries, a ceremony called Pavarana used to be held. It was the: [2002]  ",
+      "choices": [
+        " occasion to elect the Sanghparinayaka and two speakers one on Dhamma and the other on Vinaya   "        , 
+        "  confession by monks of their offences committed during their stay in the monasteries during the rainy season    "            ,   
+        "  ceremony of initiation ofnew person into the Buddhist Sangha in which the head is shaved and when yellow robes are offered   "                  , 
+        "   gathering of Buddhist monks on the next day to the full-moon day of Ashadha when they take up a fixed abode for the next four months of the rainy season   "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    },{
+      "question": "The ancient Indian play Mudrarakshasa of Visakhadutt has its subject on: [2002]       ",
+      "choices": [
+        "   conflict between Gods and Demons of ancient Hindu lore  "        , 
+        "    a romantic story ofan Aryan prince and a tribal woman   "            ,   
+        "  the story of the power struggle between two Aryan  "                  , 
+        "    the court intrigues at the time of Chandragupta "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    },{
+      "question": "Emperor Harsha's southward march was stopped on the Narmada river by:      [2001]  ",
+      "choices": [
+        "  Pulakesin-I  "        , 
+        "  Pulakesin-II   "            ,   
+        "  Vikramaditya-I  "                  , 
+        "   Vikramaditya-II "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": "Consider the following statements: \n 1. The Cholas defeated Pandya and Chera rulers and established their domination over peninsular India in the early medieval times. \n 2. The Cholas sent an expedition against Sailendra empire of South-East Asia and conquered some of the areas. \n Which of these statements is/are correct? [2003]   c    d  ",
+      "choices": [
+        " Only 1   "        , 
+        "   only 2  "            ,   
+        "  Both 1 and 2  "                  , 
+        "  Neither 1 nor 2  "         
+          
+        ],
+      "number": 99,
+      "correct": 2
+    },{
+      "question": "Mrichchhakatika' an ancient Indian book written by Shudraka deals with: [2003]    ",
+      "choices": [
+        " the love affair ofa rich merchant with the daughter of a courtesan   "        , 
+        "  the victory of Chandragupta II over the Shaka Kshatrapas of western India   "            ,   
+        "   the military expeditions and exploits of Samudragupta "                  , 
+        "  the love affairs between a Gupta king and a princess of Kamarupa  "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    },{
+      "question": " Consider the following statements: \n 1. The Chinese pilgrim Fa-Hien attended the fourth Great Buddhist Council held by Kanishka. \n 2. The Chinese pilgrim Hiuen-Tsang met Harsha and found him to be antagonistic to Buddhism. \n Which of the statements given above is/are correct?   [2004] ",
+      "choices": [
+        "  1 only  "        , 
+        "  2 only    "            ,   
+        "   Both 1 and 2  "                  , 
+        "   Neither 1 nor 2 "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    },{
+      "question": " With reference to ancient Jainism, which one ofthe following statements is correct? [2004]   ",
+      "choices": [
+        " Jainism was spread in South India under the leadership of Sthalabahu.   "        , 
+        "   The Jainas who remained under the leadership of Bhadrabahu were called Shvetambaras after the council held at Pataliputra.  "            ,   
+        "  Jainism enjoyed the patronage of the Kalinga king Kharaavela in the first century BC.   "                  , 
+        "   In the initial stage of Jainism, the Jainas worshipped images unlike the Buddhist. "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    },{
+      "question": "Which one of the following four Vedas contains an account of magical charms and spells? [2004]  ",
+      "choices": [
+        " Rigveda   "        , 
+        "  Yajurveda   "            ,   
+        "   Atharvaveda "                  , 
+        "   Samaveda "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    },{
+      "question": "Who among the following was not a contemporary of the other three?  [2005]   ",
+      "choices": [
+        "  Bimbsara  "        , 
+        "  Gautama Buddha    "            ,   
+        "  Milinda  "                  , 
+        "  Prasenjit  "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    },{
+      "question": " Who among the following laid the foundation of Rashtrakuta Empire? [2006]   ",
+      "choices": [
+        "  Amostghavarsha  "        , 
+        "  Dantidurga   "            ,   
+        "    Dhruva "                  , 
+        "   Krishna I "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": " Between which of the following was the ancient town of Takshasila located? [2006]  ",
+      "choices": [
+        "  Indus and Jhelum  "        , 
+        "   Jhelum and Chenab  "            ,   
+        "   Chenab and Ravi "                  , 
+        "  Ravi and Beas   "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    },{
+      "question": "With reference to the invaders in ancient India, which one of the following is the correct chronological order? [2006]     ",
+      "choices": [
+        " Greeks-Sakas-Kushanas   "        , 
+        "   Greeks- Kushanas-Sakas  "            ,   
+        "   Sakas-Greeks- Kushanas "                  , 
+        "  Sakas-Kushanas-Greeks   "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    },{
+      "question": "Consider the following statements: [2006] \n 1. The Ikshvaku rulers of Southern India were antagonistic towards Buddhism. \n 2. The Pala rulers of Eastern India were patrons of Buddhism. \n Which of the statement(s) given above is/ are correct?    ",
+      "choices": [
+        "  1 only  "        , 
+        "   2 only  "            ,   
+        "   Both 1 and 2 "                  , 
+        "  Neither 1 nor 2  "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": " With reference to the history of ancient India, which of the following was/were common to both Buddhism and Jainism? [2012-1] \n 1. Avoidance of extremities of penance and enjoyment \n 2. Indifference to the authority of the Vedas \n 3. Denial ofefflcacy of rituals \n Select the correct answer using the codes given below: ",
+      "choices": [
+        "  1 only   "        , 
+        "  2 and 3 only    "            ,   
+        "  1 and 3 only   "                  , 
+        "   l, 2 and 3   "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": "The Nagara, the Dravida and the Vesara are the __________________.     [1995, 2012-1] ",
+      "choices": [
+        "  three main racial groups of the Indian subcontinent  "        , 
+        "   three main linguistic divisions into which the languages of India can be classified  "            ,   
+        "   three main styles of Indian temple architecture  "                  , 
+        "  three main musical Gharanas prevalent in India   "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    },{
+      "question": "Lord Buddha 's image is sometimes shown with the hand gesture called 'Bhumisparsha Mudra'. It symbolizes ______________> [2012-1]   ",
+      "choices": [
+        "   Buddha's calling of the Earth to watch over Mara and to prevent Mara from disturbing his meditation "        , 
+        "  Buddha's calling of the Earth to witness his purity and chastity despite the temptations of Mara   "            ,   
+        "  Buddha's reminder to his followers that they all arise from the Earth and finally dissolve into the Earth, and thus this life is transitory  "                  , 
+        "  Both the statements  and  are correct in this context   "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": " The religion of early Vedic Aryans was primarily of  ___________________. [2012-1]  ",
+      "choices": [
+        "   Bhakti "        , 
+        "   image worship and Yajnas   "            ,   
+        "  worship of nature and Yajnas  "                  , 
+        "  worship of nature and Bhakti  "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    },{
+      "question": "  Some Buddhist rock-cut caves are called Chaityas, while the others are called Viharas. What is the difference between the two?       [2013-1]    ",
+      "choices": [
+        "  Vihara is a place of worship, while Chaitya is the dwelling place ofthe monks  "        , 
+        "   Chaitya is a place of worship, while Vihara is the dwelling place of the monks  "            ,   
+        "  Chaitya is the stupa at the far end of the cave, while Vihara is the hall axial to it  "                  , 
+        "   There is no material difference between the two "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": " With reference to the history of philosophical thought in India, consider the following statements regarding Sankhya school: [2013-1] Sankhya does not accept the theory of rebirth or 1. transmigration of soul. 2. Sankhya holds that it is the self-knowledge that leads to liberation and not any exterior influence or agent. Which of the statements given above is/are correct?   ",
+      "choices": [
+        "  1 only  "        , 
+        "   2 only   "            ,   
+        "   Both 1 and 2 "                  , 
+        "   Neither 1 nor 2 "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": "Which one of the following describes best the concept of Nirvana in Buddhism? [2013-1]   ",
+      "choices": [
+        "    The extinction of the flame of desire "        , 
+        "  The complete annihilation of self   "            ,   
+        "   A state of bliss and rest  "                  , 
+        "  A mental stage beyond all comprehension.  "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    },{
+      "question": "Which of the following characterizes / characterize the people of Indus Civilization? [2013-1] l. They possessed great palaces and temples. 2 They worshipped both male and female deities. 3. They employed horse-drawn chariots in warfare. Select the correct statement/statements using the codes given below.   ",
+      "choices": [
+        "  1 and 2 only  "        , 
+        "   2 only   "            ,   
+        "  1, 2 and 3   "                  , 
+        "   None of the statements given above is correct   "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": "Which of the following statements is/are applicable to Jain doctrine? [2013-1] \n 1. The surest way of annihilating Karma is to practice penance. \n 2. Every object, even the smallest particle has a soul. 3\n . Karma is the bane of the soul and must be ended. \n Select the correct answer using the codes given below.   ",
+      "choices": [
+        " 1 only   "        , 
+        "  2 and 3 only   "            ,   
+        "  1 and 3 only  "                  , 
+        "  1,2 and 3   "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    },{
+      "question": "With reference to the history of Indian rock-cut architecture, consider the following statements: [2013-1] \n l. The caves at Badami are the oldest surviving rock-cut caves in India. \n 2. The Barabar rock-cut caves were originally made for Ajivikas by Emperor Chandragupta Maurya. \n 3. At Ellora, caves were made for different faiths. \n Which of the statements given above is/are correct?    ",
+      "choices": [
+        "  1 only   "        , 
+        "   2 and 3 only  "            ,   
+        "   3 only "                  , 
+        "  l, 2 and 3  "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    },{
+      "question": "The Chinese traveller Yuan Chwang (Hiuen Tsang) who visited India recorded the general conditions and culture of India at that time. In this context, which of the following statements is/are correct? [2013-1] \n l. The roads and river-routes were completely immune from robbery. \n 2. As regards punishment for offences, ordeals by fire, water and poison were the instruments for determining the innocence or guilt ofa person. \n 3. The tradesmen had to pay duties at ferries and barrier stations. \n Select the correct answer using the codes given below    ",
+      "choices": [
+        "  1 only   "        , 
+        "   2 and 3 only   "            ,   
+        "   1 and 3 only  "                  , 
+        "  1, 2 and 3   "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": "In the context of cultural history of India, a pose in dance and dramatics called 'Tribhanga' has been a favourite of Indian artists from ancient times till today. Which one of the following statements best describes this pose? [2013-1]       ",
+      "choices": [
+        "  One leg is bent and the body is slightly but oppositely curved at waist and neck   "        , 
+        "  Facial expressions, hand gestures and make-up are combined to symbolize certain epic or historic characters   "            ,   
+        "  Movements of body, face and hands are used to express oneself or to tell a story  "                  , 
+        "   A little smile, slightly curved waist and certain hand gestures are emphasized to express the feelings of love or eroticism. "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    },{
+      "question": " Consider the following historical places: 1. Ajanta Caves 2. Lepakshi Temple 3. Sanchi Stupa Which of the above places is/are also known for mural paintings?  [2013]  ",
+      "choices": [
+        " 1 only   "        , 
+        "   1 and 2 only   "            ,   
+        "   1, 2 and 3  "                  , 
+        "  None  "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    },{
+      "question": "Which one of the following pairs does not form part of the six systems of Indian Philosophy? [2014-1]       ",
+      "choices": [
+        " Mimamsa and Vedanta   "        , 
+        "  Nyaya and Vaisheshika   "            ,   
+        "  Lokayata and Kapalika   "                  , 
+        "   Sankhya and Yoga "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    },{
+      "question": " The national motto of India, 'Satyameva Jayate' inscribed below the Emblem of India is taken from _______________.     ",
+      "choices": [
+        "  Katha Upanishad  "        , 
+        "   Chandogya Upanishad   "            ,   
+        "    Aitareya Upanishad "                  , 
+        "   Mundaka Upanishad "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    },{
+      "question": "Which of the following Kingdoms were associated with the life of the Buddha? \n 1. Avanti  \n  2. Gandhara \n 3. Kosala \n 4. Magadha  \n Select the correct answer using the code given below. [2014]   ",
+      "choices": [
+        "  l, 2 and 3  "        , 
+        "    2 and 4  "            ,   
+        "  3 and 4 only   "                  , 
+        "  1, 3 and 4 "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    },
+    {
       "question": "With reference to India's culture and tradition, what is 'Kalaripayattu?    [UPSC 2014  ]",
       "choices": [
-        "(a) It is an ancient Bhakti cult of Shaivism still prevalent in some parts of South India."        , 
-        " (b) It is an ancient style bronze and brasswork still found in southern part of Coromandel area."            ,   
-        "(c) It is an ancient form of dance-drama and a living tradition in the northern part of Malabar."                  , 
-        "(d) It is an ancient martial art and a living tradition in some parts of South India."         
+        " It is an ancient Bhakti cult of Shaivism still prevalent in some parts of South India."        , 
+        "  It is an ancient style bronze and brasswork still found in southern part of Coromandel area."            ,   
+        " It is an ancient form of dance-drama and a living tradition in the northern part of Malabar."                  , 
+        " It is an ancient martial art and a living tradition in some parts of South India."         
                
         ],
       "number": 99,
@@ -16,10 +862,10 @@
     },{
       "question": "With reference to the cultural history of India, the term 'Panchayatan' refers to     [UPSC 2014 ]",
       "choices": [
-        "(a) an assembly of village elders"        , 
-        "(b) a religious sect"            ,   
-        "(c) a style of temple construction"                  , 
-        "(d) an administrative functionary"         
+        " an assembly of village elders"        , 
+        " a religious sect"            ,   
+        " a style of temple construction"                  , 
+        " an administrative functionary"         
                
         ],
       "number": 99,
@@ -27,10 +873,10 @@
     },{
       "question": "Who of the following founded a new city on the south bank of a tributary to river Krishna and undertook to rule his new kingdom as the agent of a deity to whom all the land south of the river Krishna was supposed to belong?    [UPSC 2014  ]",
       "choices": [
-        "(a) Amoghavarsha I"        , 
-        "(b) Ballala I"            ,   
-        " (c) Harihara I"                  , 
-        "(d) Prataparudra II"         
+        " Amoghavarsha I"        , 
+        " Ballala I"            ,   
+        "  Harihara I"                  , 
+        " Prataparudra II"         
                
         ],
       "number": 99,
@@ -38,10 +884,10 @@
     },{
       "question": "With reference to the art and archaeological history of India, which one among the following was made earliest?    [UPSC 2014  ]",
       "choices": [
-        "(a) Lingaraja Temple at Bhubaneswar"        , 
-        "(b) Rock-cut Elephant at Dhauli"            ,   
-        "(c) Rock-cut Monuments Mahabalipuram"                  , 
-        " (d) Varaha Image at Udayagiri"         
+        " Lingaraja Temple at Bhubaneswar"        , 
+        " Rock-cut Elephant at Dhauli"            ,   
+        " Rock-cut Monuments Mahabalipuram"                  , 
+        "  Varaha Image at Udayagiri"         
                
         ],
       "number": 99,
@@ -49,8 +895,8 @@
     },{
       "question": "With reference to the economic history of medieval India, the term 'Araghatta' refers to     [UPSC 2016 ]",
       "choices": [
-        "(a) bonded labour"        , 
-        "(b) land grant made to military officers"            ,   
+        " bonded labour"        , 
+        " land grant made to military officers"            ,   
         "c) waterwheel used in the irrigation of land"                  , 
         "d) wasteland converted to cultivated land"         
                
@@ -60,10 +906,10 @@
     },{
       "question": "With reference to the cultural history of India, the memorizing of chronicles, dynastic histories and epic tales was the profession of who of the following?    [UPSC 2016  ]",
       "choices": [
-        "(a) Shramana"        , 
-        "(b) Parivraajaka"            ,   
-        "(c) Agrahaarika "                  , 
-        "(d) Maagadha"         
+        " Shramana"        , 
+        " Parivraajaka"            ,   
+        " Agrahaarika "                  , 
+        " Maagadha"         
                
         ],
       "number": 99,
@@ -71,10 +917,10 @@
     },{
       "question": "What was the main reason for the split in the Indian National Congress at Surat in 1907?   [UPSC  ]",
       "choices": [
-        "(a) Introduction of communalism into Indian politics b Lord Minto"        , 
-        "(b) Extremists' lack of faith in the capacity of the moderates to negotiate with the British Government"            ,   
-        "(c) Foundation of Muslim League "                  , 
-        "(d) Aurobindo Ghosh's inability to the elected as the President of the Indian National Congress "         
+        " Introduction of communalism into Indian politics b Lord Minto"        , 
+        " Extremists' lack of faith in the capacity of the moderates to negotiate with the British Government"            ,   
+        " Foundation of Muslim League "                  , 
+        " Aurobindo Ghosh's inability to the elected as the President of the Indian National Congress "         
                
         ],
       "number": 99,
@@ -82,10 +928,10 @@
     },{
       "question": "The plan of Sir Stafford Cripps envisaged that after the Second World War _____________.     [UPSC 2016  ]",
       "choices": [
-        "(a) India should be granted complete independence"        , 
-        "(b) India should be partitioned into two before granting independence"            ,   
-        "(c) India should be made a republic with the condition that she will join the Commonwealth"                  , 
-        "(d) India should be given Dominion status"         
+        " India should be granted complete independence"        , 
+        " India should be partitioned into two before granting independence"            ,   
+        " India should be made a republic with the condition that she will join the Commonwealth"                  , 
+        " India should be given Dominion status"         
                
         ],
       "number": 99,
@@ -93,10 +939,10 @@
     },{
       "question": "Which one of the following books of ancient India has the love story of the son of the founder of Sunga dynasty?     [UPSC 2016 ]",
       "choices": [
-        "(a) Swapnavasavadatta"        , 
-        "(b) Malavikagnimitra"            ,   
-        "(c) Meghadoota"                  , 
-        "(d) Ratnavali"         
+        " Swapnavasavadatta"        , 
+        " Malavikagnimitra"            ,   
+        " Meghadoota"                  , 
+        " Ratnavali"         
                
         ],
       "number": 99,
@@ -104,10 +950,10 @@
     },{
       "question": "Who of the following had first deciphered the edicts of Emperor Ashoka?    [UPSC 2016 ]",
       "choices": [
-        " (a) Georg Buhler"        , 
-        "(b) James Prinsep"            ,   
-        "(c) Max Muller"                  , 
-        "(d) William Jones"          
+        "  Georg Buhler"        , 
+        " James Prinsep"            ,   
+        " Max Muller"                  , 
+        " William Jones"          
                
         ],
       "number": 99,
@@ -115,10 +961,10 @@
     },{
       "question": "With reference to the religious history of India, consider the following statements: \u23E9 1. The concept of Bodhisattva is central to Hinayana sect of Buddhism. \u23E9 2. Bodhisattva is a compassionate one on his way to enlightenment. \u23E9 3. Bodhisattva delays achieving his own salvation to help all sentinent beings on their path to it. \u23E9 Which of the statements given above is/are correct?    [UPSC  2016  ]",
       "choices": [
-        "(a) 1 only"        , 
-        "(b) 2 and 3 only"            ,   
-        "(c) 2 only "                  , 
-        "(d) 1, 2 and 3"         
+        " 1 only"        , 
+        " 2 and 3 only"            ,   
+        " 2 only "                  , 
+        " 1, 2 and 3"         
                
         ],
       "number": 99,
@@ -126,10 +972,10 @@
     },{
       "question": "What is/are common to the two historical places known as Ajanta and Mahabalipuram? \u23E9 1. Both were built in the same period. \u23E9 2. Both belong to the same religious denomination. \u23E9 3. Both have rock-cut monuments. Select the correct answer using the code given below.   [UPSC 2016  ]",
       "choices": [
-        "(a) 1 and 2 only"        , 
-        "(b) 3 only "            ,   
-        "(c) 1 and 3 only "                  , 
-        "(d) None of the statements given above is correct"         
+        " 1 and 2 only"        , 
+        " 3 only "            ,   
+        " 1 and 3 only "                  , 
+        " None of the statements given above is correct"         
                
         ],
       "number": 99,
@@ -137,10 +983,10 @@
     },{
       "question": "The painting of Bodhisattva Padmapani is one of the most famous and illustrated paintings at _________________.  [UPSC 2017]",
       "choices": [
-        "(a) Ajanta"        , 
-        "(b) Badami"            ,   
-        " (c) Bagh"                  , 
-        " (d) Ellora "         
+        " Ajanta"        , 
+        " Badami"            ,   
+        "  Bagh"                  , 
+        "  Ellora "         
                
         ],
       "number": 99,
@@ -148,10 +994,10 @@
     },{
       "question": "Which one of the following foreign travellers elaborately discussed about diamonds and diamond mines of India?     [UPSC 2018 ]",
       "choices": [
-        "(a) Francois Bernier"        , 
-        "(b) Jean-Baptiste Tavernier"            ,   
-        "(c) Jean de Thevenot"                  , 
-        "(d) Abbe Barthelemy Carre"         
+        " Francois Bernier"        , 
+        " Jean-Baptiste Tavernier"            ,   
+        " Jean de Thevenot"                  , 
+        " Abbe Barthelemy Carre"         
                
         ],
       "number": 99,
@@ -159,10 +1005,10 @@
     },{
       "question": "Which one of the following is not a Harappan site?     [UPSC 2019 ]",
       "choices": [
-        "(a) Chanhudaro"        , 
-        "(b) Kot Diji"            ,   
-        "(c) Sohgaura"                  , 
-        "(d) Desalpur"         
+        " Chanhudaro"        , 
+        " Kot Diji"            ,   
+        " Sohgaura"                  , 
+        " Desalpur"         
                
         ],
       "number": 99,
@@ -171,10 +1017,10 @@
     {
       "question": "In which of the following relief sculpture inscriptions is 'Ranyo Ashoka' (King Ashoka) mentioned along with the stone portrait of Ashoka?      [UPSC 2019  ]",
       "choices": [
-        "(a) Kanganahalli   "        , 
-        "   (b) Sanchi "            ,   
-        "  (c) Shahbazgarhi "                  , 
-        "  (d) Sohgaura "         
+        " Kanganahalli   "        , 
+        "    Sanchi "            ,   
+        "   Shahbazgarhi "                  , 
+        "   Sohgaura "         
                
         ],
       "number": 99,
@@ -182,10 +1028,10 @@
     }, {
       "question": "Consider the following statements: \u23E9 1. Deification of the Buddha \u23E9 2. Trading the path of Bodhisattvas \u23E9 3. Image worship and rituals \u23E9 Which of the above is/are the feature/features of Mahayana Buddhism?      [UPSC 2019  ]",
       "choices": [
-        "(a) 1 only   "        , 
-        " (b) 1 and 2 only  "            ,   
-        " (c) 2 and 3 only  "                  , 
-        "  (d) 1, 2 and 3   "         
+        " 1 only   "        , 
+        "  1 and 2 only  "            ,   
+        "  2 and 3 only  "                  , 
+        "   1, 2 and 3   "         
                
         ],
       "number": 99,
@@ -193,10 +1039,10 @@
     }, {
       "question": "With refence to forced labour (Vishti) in India during the Gupta period, which one of the following statements is correct?        [UPSC 2019  ]",
       "choices": [
-        " (a) It was considered a source of income for the State, a sort of tax paid by the people.  "        , 
-        " (b) It was totally absent in the Madhya Pradesh and Kathiawar region of the Gupta Empire.  "            ,   
-        " (c) The forced labourer was entitled to weekly wages.  "                  , 
-        " (d) The eldest son of the labourer was sent as the forced labourer.  "         
+        "  It was considered a source of income for the State, a sort of tax paid by the people.  "        , 
+        "  It was totally absent in the Madhya Pradesh and Kathiawar region of the Gupta Empire.  "            ,   
+        "  The forced labourer was entitled to weekly wages.  "                  , 
+        "  The eldest son of the labourer was sent as the forced labourer.  "         
                
         ],
       "number": 99,
@@ -204,10 +1050,10 @@
     }, {
       "question": "Building 'Kalyaana Mandapas' was a notable feature in the temple construction in the kingdom of        [UPSC 2019  ]",
       "choices": [
-        " (a) Chalukya  "        , 
-        " (b) Chandela  "            ,   
-        " (c) Rashtrakuta  "                  , 
-        "  (d) Vijayanagara "         
+        "  Chalukya  "        , 
+        "  Chandela  "            ,   
+        "  Rashtrakuta  "                  , 
+        "   Vijayanagara "         
                
         ],
       "number": 99,
@@ -215,10 +1061,10 @@
     }, {
       "question": "With reference to scholars/litterateurs the of ancient India, consider the following statements: \u23E9 1. Panini is associated with Pushyamitra Shunga. \u23E9 2. Amarasimha is associated with Harshavardhana. \u23E9 3. Kalidasa is associated with Chandra Gupta-II. \u23E9 Which of the statements given above is/are correct?      [UPSC 2020  ]",
       "choices": [
-        " (a) 1 and 2 only  "        , 
-        " (b) 2 and 3 only  "            ,   
-        " (c) 3 only  "                  , 
-        "  (d) 1, 2 and 3   "         
+        "  1 and 2 only  "        , 
+        "  2 and 3 only  "            ,   
+        "  3 only  "                  , 
+        "   1, 2 and 3   "         
                
         ],
       "number": 99,
@@ -226,10 +1072,10 @@
     }, {
       "question": "Consider the following events in the history of India: \u23E9 1. Rise of Pratiharas under King Bhoja \u23E9 2 Establishment of Pallava power under Mahendravarman-I \u23E9 3. Establishment of Chola power by Purantaka \u23E9 4. Pala dynasty founded by Gopala. \u23E9 What is the correct chronological order of the above events, starting from the earliest time?      [UPSC 2020  ]",
       "choices": [
-        " (a) 2-1-4-3  "        , 
-        " (b) 3-1-4-2  "            ,   
-        " (c) 2-4-1-3   "                  , 
-        " (d) 3-4-1-2   "         
+        "  2-1-4-3  "        , 
+        "  3-1-4-2  "            ,   
+        "  2-4-1-3   "                  , 
+        "  3-4-1-2   "         
                
         ],
       "number": 99,
@@ -237,10 +1083,10 @@
     }, {
       "question": " With reference to the history of India, the terms 'kulyavapa' and 'dronavapa' denote _________.      [UPSC 2020  ]",
       "choices": [
-        " (a) measurement of land  "        , 
-        " (b) coins of different monetary value  "            ,   
-        "(c) classification of urban land    "                  , 
-        " (d) religious rituals  "         
+        "  measurement of land  "        , 
+        "  coins of different monetary value  "            ,   
+        " classification of urban land    "                  , 
+        "  religious rituals  "         
                
         ],
       "number": 99,
@@ -248,10 +1094,10 @@
     }, {
       "question": "Who among the following rulers advised his subjects through this inscription? 'Whosoever praises his religious sect or blames other sects out of excessive devotion to his own sect, with the view of glorifying his own sect, he rather injures his own sect very severely.'      [UPSC 2020  ]",
       "choices": [
-        " (a) Ashoka  "        , 
-        "  (b) Samudragupta "            ,   
-        " (c) Harshavardhana   "                  , 
-        " (d) Krishnadeva Raya  "         
+        "  Ashoka  "        , 
+        "   Samudragupta "            ,   
+        "  Harshavardhana   "                  , 
+        "  Krishnadeva Raya  "         
                
         ],
       "number": 99,
@@ -259,10 +1105,10 @@
     }, {
       "question": "With reference to the period of Gupta dynasty in ancient India, the towns Ghantasala, Kadura and Chaul were well known as _____________.       [UPSC 2020  ]",
       "choices": [
-        " (a) ports handling foreign trade  "        , 
-        " (b) capitals of powerful kingdoms  "            ,   
-        "  (c) places of exquisite stone art and architecture "                  , 
-        "  (d) important Buddhist pilgrimage centres  "         
+        "  ports handling foreign trade  "        , 
+        "  capitals of powerful kingdoms  "            ,   
+        "   places of exquisite stone art and architecture "                  , 
+        "   important Buddhist pilgrimage centres  "         
                
         ],
       "number": 99,
@@ -270,10 +1116,10 @@
     }, {
       "question": "Which one of the following statements best describes the term 'Social Cost of Carbon'? It is a measure, in monetary value, of the        [UPSC 2020  ]",
       "choices": [
-        " (a) long-term damage done by a tonne of CO2 emissions in a given year.  "        , 
-        " (b) requirement of fossil fuels for a country to provide goods and services to its citizens, based on the burning of those fuels.  "            ,   
-        " (c) efforts put in by a climate refugee to adapt to live in a new place.  "                  , 
-        "  (d) contribution of an individual person to the carbon footprint on the planet Earth. "         
+        "  long-term damage done by a tonne of CO2 emissions in a given year.  "        , 
+        "  requirement of fossil fuels for a country to provide goods and services to its citizens, based on the burning of those fuels.  "            ,   
+        "  efforts put in by a climate refugee to adapt to live in a new place.  "                  , 
+        "   contribution of an individual person to the carbon footprint on the planet Earth. "         
                
         ],
       "number": 99,
@@ -281,10 +1127,10 @@
     }, {
       "question": " Which one of the following ancient towns is well-known for its elaborate system of water harvesting and management by building a series of dams and channelizing water into connected reservoirs?     [UPSC 2021  ]",
       "choices": [
-        " (a) Dholavira  "        , 
-        " (b) Kalibangan  "            ,   
-        "  (c) Rakhigarhi "                  , 
-        "  (d) Ropar   "         
+        "  Dholavira  "        , 
+        "  Kalibangan  "            ,   
+        "   Rakhigarhi "                  , 
+        "   Ropar   "         
                
         ],
       "number": 99,
@@ -292,10 +1138,10 @@
     }, {
       "question": "In the first quarter of seventeenth century, in which of the following was/were the factory/factories of the English East India Company located? \u23E9 1. Broach \u23E9 2. Chicacole \u23E9 3. Trichinopoly \u23E9 Select the correct answer using the code given below.     [UPSC 2021  ]",
       "choices": [
-        "  (a) 1 only   "        , 
-        " (b) 1 and 2  "            ,   
-        " (c) 3 only  "                  , 
-        " (d) 2 and 3   "         
+        "   1 only   "        , 
+        "  1 and 2  "            ,   
+        "  3 only  "                  , 
+        "  2 and 3   "         
                
         ],
       "number": 99,
@@ -303,10 +1149,10 @@
     }, {
       "question": "From the decline of Guptas until the rise of Harshavardhana in the early seventh century, which of the following kingdoms were holding power in Northern India?\u23E9  1. The Guptas of Magadha \u23E9 2. The Paramaras of Malwa \u23E9 3. The Pushyabhutis of Thanesar \u23E9 4. The Maukharis of Kanauj \u23E9 5. The Yadavas of Devagiri \u23E9 6. The Maitrakas of Valabhi \u23E9 Select the correct answer using the code given below.        [UPSC 2021 ]",
       "choices": [
-        " (a) 1, 2 and 5  "        , 
-        " (b) 1, 3, 4 and 6  "            ,   
-        "  (c) 2, 3 and 4 "                  , 
-        " (d) 5 and 6  "         
+        "  1, 2 and 5  "        , 
+        "  1, 3, 4 and 6  "            ,   
+        "   2, 3 and 4 "                  , 
+        "  5 and 6  "         
                
         ],
       "number": 99,
@@ -314,10 +1160,10 @@
     }, {
       "question": "According to Portuguese writer Nuniz, the women in Vijayanagara Empire were expert in which of the following areas? \u23E9 1. Wrestling \u23E9 2. Astrology \u23E9 3. Accounting \u23E9 4. Soothsaying \u23E9 Select the correct answer using the code given below.      [UPSC 2021  ]",
       "choices": [
-        " (a) 1, 2 and 3 only  "        , 
-        "  (b) 1, 3 and 4 only  "            ,   
-        " (c) 2 and 4 only   "                  , 
-        "  (d) 1, 2, 3 and 4 "         
+        "  1, 2 and 3 only  "        , 
+        "   1, 3 and 4 only  "            ,   
+        "  2 and 4 only   "                  , 
+        "   1, 2, 3 and 4 "         
                
         ],
       "number": 99,
@@ -325,10 +1171,10 @@
     }, {
       "question": "With reference to Madanapalle of Andhra Pradesh, which one of the following statements is correct?      [UPSC 2021  ]",
       "choices": [
-        " (a) Pingali Venkayya designed the tricolour Indian National Flag here.  "        , 
-        " (b) Pattabhi Sitaramaiah led the Quit India Movement of Andhra region from here.  "            ,   
-        " (c) Rabindranath Tagore translated the National Anthem from Bengali to English here.  "                  , 
-        "  (d) Madame Blavatsky and Colonel Olcott set up headquarters of Theosophical Society first here.   "         
+        "  Pingali Venkayya designed the tricolour Indian National Flag here.  "        , 
+        "  Pattabhi Sitaramaiah led the Quit India Movement of Andhra region from here.  "            ,   
+        "  Rabindranath Tagore translated the National Anthem from Bengali to English here.  "                  , 
+        "   Madame Blavatsky and Colonel Olcott set up headquarters of Theosophical Society first here.   "         
                
         ],
       "number": 99,
@@ -336,10 +1182,10 @@
     }, {
       "question": "With reference to the history of ancient India, Bhavabhuti, Hastimalla and Kshemeshvara were famous       [UPSC 2021  ]",
       "choices": [
-        " (a) Jain monks  "        , 
-        "(b) playwrights   "            ,   
-        " (c) temple architects  "                  , 
-        "  (d) philosophers  "         
+        "  Jain monks  "        , 
+        " playwrights   "            ,   
+        "  temple architects  "                  , 
+        "   philosophers  "         
                
         ],
       "number": 99,
@@ -347,10 +1193,10 @@
     }, {
       "question": "Which one of the following statements is correct?      [UPSC 2021  ]",
       "choices": [
-        "   (a) Ajanta Caves lie in the gorge of Waghora river. "        , 
-        " (b) Sanchi Stupa lies in the gorge of Chambal river.  "            ,   
-        "  (c) Pandu-lena Cave Shrines lie in the gorge of Narmada river. "                  , 
-        "  (d) Amaravati Stupa lies in the gorge of Godavari river.  "         
+        "    Ajanta Caves lie in the gorge of Waghora river. "        , 
+        "  Sanchi Stupa lies in the gorge of Chambal river.  "            ,   
+        "   Pandu-lena Cave Shrines lie in the gorge of Narmada river. "                  , 
+        "   Amaravati Stupa lies in the gorge of Godavari river.  "         
                
         ],
       "number": 99,
@@ -358,10 +1204,10 @@
     }, {
       "question": "According to Kautilya's Arthashastra, which of the following are correct? \u23E91. A person could be a slave as a result of a judicial punishment. \u23E92. If a female slave bore her master a son, she was legally free. \u23E93. If a son born to a female slave was fathered by her master, the son was entitled to the legal status of the master's son. \u23E9Which of the statements given above are correct?      [UPSC 2022  ]",
       "choices": [
-        "(a) 1 and 2 only   "        , 
-        "(b) 2 and 3 only   "            ,   
-        "  (c) 1 and 3 only  "                  , 
-        "  (d) 1, 2 and 3  "         
+        " 1 and 2 only   "        , 
+        " 2 and 3 only   "            ,   
+        "   1 and 3 only  "                  , 
+        "   1, 2 and 3  "         
                
         ],
       "number": 99,
@@ -369,10 +1215,10 @@
     }, {
       "question": " In which one of the following regions was Dhanyakataka, which flourished as a prominent Buddhist centre under the Mahasanghikas, located?      [UPSC 2023  ]",
       "choices": [
-        "(a) Andhra   "        , 
-        " (b) Gandhara   "            ,   
-        " (c) Kalinga  "                  , 
-        " (d) Magadhas  "         
+        " Andhra   "        , 
+        "  Gandhara   "            ,   
+        "  Kalinga  "                  , 
+        "  Magadhas  "         
                
         ],
       "number": 99,
@@ -380,10 +1226,10 @@
     }, {
       "question": "With reference to ancient South India, Korkai, Poompuhar and Muchiri were well known as _______________________.     [UPSC 2023  ]",
       "choices": [
-        " (a) capital cities  "        , 
-        "(b) ports    "            ,   
-        " (c) centres of iron-and- steel making  "                  , 
-        "  (d) shrines of Jain tirthankaras  "         
+        "  capital cities  "        , 
+        " ports    "            ,   
+        "  centres of iron-and- steel making  "                  , 
+        "   shrines of Jain tirthankaras  "         
                
         ],
       "number": 99,

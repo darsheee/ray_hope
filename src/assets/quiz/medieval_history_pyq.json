@@ -3,12 +3,596 @@
   "displayName": "Medieval History PYQ",
   "questions": [
     {
+      "question": "The Mughal school of painting formed the spinal column of different schools of Indian miniature art. Which one of the following painting styles was not affected by Mughal painting? [1995]     ",
+      "choices": [
+        "   Pahari    "        , 
+        "    Rajasthani   "            ,   
+        "   Kangra     "                  , 
+        "     Kalighata    "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    },
+    {
+      "question": "Who among the following were famous jurists ofmedieval India? (1) Vljnanesvara   (2) Hemadri (3) Rajasekhara  (4) Jimutavahana Select the correct answer using the codes given below:   [1995]    ",
+      "choices": [
+        "   l, 2 and 3     "        , 
+        "  2,3 & 4      "            ,   
+        "   1, 2 & 4     "                  , 
+        "   1 & 4      "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": " Which one of the following monuments has a dome which is said to be one of the largest in the world? [1995]    ",
+      "choices": [
+        "    Tomb of Sher Shah, Sasaram     "        , 
+        "   Jama Masjid, Delhi    "            ,   
+        "    Tomb of Ghiyas-ud-din Tughlaq, Delhi    "                  , 
+        "    Gol Gumbaz, Bijapur     "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    }, {
+      "question": " Ashtapradhan was a council of ministers:     ",
+      "choices": [
+        "  in the Gupta administration     "        , 
+        "  in the Chola administration     "            ,   
+        "    in the Vijayanagar administration    "                  , 
+        "   in the Maratha administration      "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    }, {
+      "question": " The term 'Apabhramsa' was used in medieval Sanskrit texts to denote: [1996]     ",
+      "choices": [
+        "    outcastes among the Rajputs   "        , 
+        "   deviations from Vedic rituals    "            ,   
+        "   early forms of some of the modern Indian language     "                  , 
+        "    non-Sanskrit verse metres     "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": " Nastaliq was:     ",
+      "choices": [
+        "    a persian script used in medieval India    "        , 
+        "    a raga composed by Tansen    "            ,   
+        "    a cess levied by the Mughal rulers    "                  , 
+        "    a manual of code of conduct for the Ulemas     "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    }, {
+      "question": " The sufi saint who maintained that devotional music was one way of coming close to God was; [1996]   ",
+      "choices": [
+        "  Muin-ud-din Chisti     "        , 
+        "    Baba Farid   "            ,   
+        "     Saiyid Muhammad Gesudaraz    "                  , 
+        "   Shah Alam Bukhari      "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    }, {
+      "question": "  Mughal painting reached its zenith under:    ",
+      "choices": [
+        "  Humayun     "        , 
+        "    Akbar   "            ,   
+        "     Jahangir   "                  , 
+        "    Shahjahan     "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": " In medieval India, Mansabdari system was introduced for:        ",
+      "choices": [
+        "   making recruitment to the army    "        , 
+        "    facilitating revenue collection   "            ,   
+        "    ensuring religious harmony    "                  , 
+        "    effecting clean administration     "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    }, {
+      "question": " Prem Vatika, poems on the life of Krishna, were composed by :   [1996]    ",
+      "choices": [
+        "   Bihari    "        , 
+        "   Surdas    "            ,   
+        "    Raskhan    "                  , 
+        "   Kabir      "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": "After consolidating his power, Balban assumed the grand title of :  [1997]      ",
+      "choices": [
+        "   Tute-Hind    "        , 
+        "   Kaisr-I-Hind    "            ,   
+        "   Zil-l-llahi     "                  , 
+        "    Din-I-llahi     "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    }, {
+      "question": "  Assertion : The sponsor and the most prominent figure of the Chisti order of Sufis in India is Khwaja Moinuddin Chisti. Reason (R): The Chisti order takes its name from a village Chisti in Ajmer. In the context of the above two statements, which one of the following is correct? [1997]    ",
+      "choices": [
+        "   Both A and R are true but R is the correct explanation of A       "        , 
+        "  Both A and R are true but R is not the correct explanation of A     "            ,   
+        "   A is true but R is false     "                  , 
+        "   A is false but R is true     "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": " Which one of the following pairs of composers in different languages and their works on the Mahabharata theme is correctly matched? [1997]    ",
+      "choices": [
+        "   Sarladasa—Bengali    "        , 
+        "    Kasirama—Oriya   "            ,   
+        "   Tikkana—Marathi     "                  , 
+        "     Pampa—Kannada    "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    }, {
+      "question": "  The medieval Indian writer who refers to the discovery of America is . [1997]  ",
+      "choices": [
+        "   Malik Muhammad Jayasi      "        , 
+        "   Amir Khusrau    "            ,   
+        "   Raskhan     "                  , 
+        "      Abul Fazl    "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    }, {
+      "question": " The member of Shivaji's Ashtapradhan who looked after foreign affairs was:  [1998]    ",
+      "choices": [
+        "    Peshwa   "        , 
+        "   Sachiv    "            ,   
+        "   Pandit Rao     "                  , 
+        "    Sumant     "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    }, {
+      "question": " The loss of Qandhar was a big blow to the Mughal empire from the view point of:  [1998]  ",
+      "choices": [
+        "  natural resources      "        , 
+        "  buffer territory     "            ,   
+        "  communication      "                  , 
+        "   strategic stronghold      "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    }, {
+      "question": " Fawazil in the Sultanate period meant:  [1998]   ",
+      "choices": [
+        "  extra payment to the nobles       "        , 
+        "    revenue assigned in lieu of salary   "            ,   
+        "   excess amount paid to the exchequer by the Iqtadars     "                  , 
+        "     illegal exactions extracted from the peasants     "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": " Sultan of Delhi who is reputed to have built the biggest network ofcanals in India was: [1998]   ",
+      "choices": [
+        " Iltutmish      "        , 
+        "    Ghiyasuddin Tughlaq    "            ,   
+        "     Firoz Shah Tughlaq   "                  , 
+        "    Sikandar Lodi     "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": "  ssertion :At first theTurkish administrationin India was essentially military. Reason (R): The countrywas parcelled out as 'Iqtas' among leading military leaders. [1998]  ",
+      "choices": [
+        "   Both A and R are true but R is the correct explanation of A       "        , 
+        "  Both A and R are true but R is not the correct explanation of A     "            ,   
+        "   A is true but R is false     "                  , 
+        "   A is false but R is true     "      
+        ],
+      "number": 99,
+      "correct": 0
+    }, {
+      "question": "  Assertion : During the reign of Shahjahan, Dara Sikoh was sent on expedition to Balkha, Badakhshan and Qandahar. Reason (R): The expedition sent by Shahjahan to the Middle-East was a marvellous success. [1998]  ",
+      "choices": [
+        "   Both A and R are true but R is the correct explanation of A       "        , 
+        "  Both A and R are true but R is not the correct explanation of A     "            ,   
+        "   A is true but R is false     "                  , 
+        "   A is false but R is true     "           
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": " Consider the following: \n l. Tughlaqabad fort \n 2 Lodi Garden  \n 3. Qutab Minar  \n 4. Fatehpur Sikri  \n The correct chronological order in which they were built is : [1998]   ",
+      "choices": [
+        "    3,1,4,2    "        , 
+        "   3,1,2,4    "            ,   
+        "   1,3,2,4     "                  , 
+        "    1,3,4,2     "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": "  The first writer to use Urdu as the medium of poetic expression was: [1999]    ",
+      "choices": [
+        "   Amir Khusrau    "        , 
+        "    Mirza Ghalib   "            ,   
+        "    Bahadur Shah Zafar    "                  , 
+        "     Faiz    "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": " One consistent feature found in the history of southern India was the growth ofsmall regional kingdoms rather than lar e em ires because of: [1999]  ",
+      "choices": [
+        "    absence of minerals like iron   "        , 
+        "    too many divisions in the social structure   "            ,   
+        "    absence of vast areas of fertile land     "                  , 
+        "    scarcity of manpower       "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": "  'The king was freed from his people and they from their king'. On whose death did Badauni comment thus? [1999]    ",
+      "choices": [
+        "   Balban    "        , 
+        "  Ala-ud-din Khalji     "            ,   
+        "    Muhammad-bin-Tughlaq    "                  , 
+        "     Firoz Shah Tughlaq    "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": "  Who among the  following streamlined the Maratha administration after Sambhaji ? [2000]   ",
+      "choices": [
+        "   Raja Ram    "        , 
+        "   Balaji Vishwanath    "            ,   
+        "    Ganga Bai    "                  , 
+        "      Nanaji Deshmukh   "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    }, {
+      "question": " Which one of the following Muslim rulers was hailed as the 'Jagadguru' by his Muslim subject because of his belief in secularism?     [2000]      ",
+      "choices": [
+        "   Hussain Shah    "        , 
+        "  Ibrahim Adil Shah     "            ,   
+        "   Zain-ul-Abidin     "                  , 
+        "      Mahmud II    "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": " Mongols under Chengiz Khan invaded India during the reign of :   [2001]     ",
+      "choices": [
+        "   Balban    "        , 
+        "  Firoz Tughlaq      "            ,   
+        "    Iltutmish    "                  , 
+        "     Muhammad Bin Tughlaq    "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": " Which among the following ports was called Babul Makka (Gate of Makka) during the Mughal period? [2001]    ",
+      "choices": [
+        "  Calicut     "        , 
+        "   Broach    "            ,   
+        "     Cambay   "                  , 
+        "   Surat      "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    }, {
+      "question": " Which of the following pairs is correctly matched? [2001]  ",
+      "choices": [
+        "   Dewan-i-Bandagani — Tughlaq     "        , 
+        "     Dewan-i-Mustakhraj — Balban  "            ,   
+        "   Dewan-i-Kohi —Alauddin Khilji     "                  , 
+        "     Dewan-i-Arz — Muhammad Tughlaq    "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": " Who among the following was the first Bhakti saint to use Hindi for the propagation of his message? [2002]     ",
+      "choices": [
+        "   Dadu    "        , 
+        "   Kabir    "            ,   
+        "  Ramananda      "                  , 
+        "     Tulsidas    "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": " With reference to medieval Indian rulers, which one of the following statement is correct? [2002]         ",
+      "choices": [
+        "    Alauddin Khalji first setup a separate ariz's department.   "        , 
+        "  Balban introduced the branding ofhorses in his military.     "            ,   
+        "    Muhammad Bin Tughlaq was succeeded by his uncle to the military     "                  , 
+        "     Firoz Tughlaq set up a separate department of slaves.    "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    }, {
+      "question": "  The motive behind Shah Jahan's Balkh campaign was to:  [2002]     ",
+      "choices": [
+        "    secure a friendly ruler in Balkh and Badakshan which bordered Kabul   "        , 
+        "   conquer Samarqand and Farghana, the Mughal homelands    "            ,   
+        "    fix the Mughal frontier on the 'scientific line', the Amu Daria    "                  , 
+        "    expand the Mughal Empire beyond the sub-continent      "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    }, {
+      "question": " Historian Barani refused to consider the state in India under Delhi Sultans as truly Islamic because: [2002]      ",
+      "choices": [
+        "  majority of the population did not follow Islam      "        , 
+        "  muslim theologists were often disregarded     "            ,   
+        "   Sultan supplemented the Muslim law by framing his own regulations     "                  , 
+        "   religious freedom was accorded to non-muslims       "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": " With reference to Sufflsm in Indian history, consider the following statements: [2002] 1. SheikhAhmad Sarhandi was a contemporaryofIbrahimLodi 2. Sheikh Nasiruddin Chirag-I-Dehlavi was a disciple of Sheikh Nizamuddin Auliya 3. Aurangzeb was a contemporary ofSheikh Salim Chisti 4. Qadiri order of Sufis was first introduced in India by Sheikh Niamutullah and Makhdum Muhammad Jilani Which of these statements are correct?     ",
+      "choices": [
+        "   1 and 2    "        , 
+        "    1 and 3   "            ,   
+        "    2 and 3     "                  , 
+        "   2 and 4      "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": "  Alam Khan, one ofthose who invited Babur to invade India [2003] was:     ",
+      "choices": [
+        "    an uncle of Ibrahim Lodi and a pretender to the throne of Delhi    "        , 
+        "   a cousin of Ibrahim Lodi who ill-treated and expelled from the country    "            ,   
+        "   the father of Dilawar Khan to whom cruel treatment was meted out by Ibrahim Lodi     "                  , 
+        "     a high official in Punjab province who was discontented with Ibrahim Lodi's treatment to his tribe     "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    }, {
+      "question": " Battle of Dharmat was fought between:    ",
+      "choices": [
+        "   Muhammad Ghori and Jai Chand     "        , 
+        "   Babur and Afghans     "            ,   
+        "   Aurangzeb and Dara Shikoh     "                  , 
+        "    Ahmad Shah Durrani and the Marathas     "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": " How did the Mughal Emperor Jahandarshah's reign, come to an early end? [2003]    ",
+      "choices": [
+        "    He was deposed by his Wazir    "        , 
+        "    He died due to a slip while climbing down the steps   "            ,   
+        "    He was defeated by his nephew in a battle    "                  , 
+        "       He died of sickness due to drinking  "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": "  How did Sultan Qutb-ud-din Aibak die? [2003]   ",
+      "choices": [
+        "  He was treacherously stabbed to death by one of his ambitious nobles     "        , 
+        "    Hewas killed in a battle with Taj-u-din Yildiz, the ruler ofGhazni who entered into a contest with him over the capture of Punjab    "            ,   
+        "   He sustained injuries while besieging the fortress of Kalinjar in Bundelkhand and succumbed to them later     "                  , 
+        "    Hedied after a fall from his horse while playing Chaugan      "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    }, {
+      "question": " Which one of the following sequences indicates the correct chronological order? [2004]     ",
+      "choices": [
+        "  Shankaracharya—Ramanuja—Chaitanya     "        , 
+        "   Ramanuja—Shankaracharya—Chaitanya    "            ,   
+        "    Ramanuja—Chaitanya—Shankaracharya    "                  , 
+        "     Shankaracharya—Chaitanya—Ramanuja    "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    }, {
+      "question": " Who was the last ruler of the Tughlaq dynasty of the Delhi Sultanate? [2004]     ",
+      "choices": [
+        "    Firoz Shah Tughlaq   "        , 
+        "   Ghiyas-ud-din Tughlaq Shah II    "            ,   
+        "    Nasir-ud-din Mahmud     "                  , 
+        "    Nasrat Shah     "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": "  How did the dynasty of Nizam Shahis ofAhmadnagar come to an end? [2004]       ",
+      "choices": [
+        "   Ahmadnagar was annexed into Mughal empire and Hussain Shah was given life imprisonment    "        , 
+        "   Mughal troops destroyed Daulatabad fort and killed Nizam-ul Mulk ofAhmadnagar    "            ,   
+        "   Fateh Khan usurped the throne from Nizam-ul-Mulk      "                  , 
+        "  Malik  Ambar was defeated in a battle with Mughals in 1631 and the entire royal family was killed by the Mughal troops     "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+    }, {
+      "question": "  The initial design and construction of which massive temple took place during the reign of Suryavarman II? [2006]    ",
+      "choices": [
+        "   Angkor Vat Temple     "        , 
+        "   Sri Mariamman Temple    "            ,   
+        "    Batu Caves Temple    "                  , 
+        "     Kamakhya Temple    "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": " When Raja Wodeyar founded the kingdom of Mysore, who was the ruler ofthe Vijayanagar Empire? [2006]    ",
+      "choices": [
+        "  Sadasiva     "        , 
+        "    Ranga II    "            ,   
+        "   Tirumala     "                  , 
+        "     Venkata II    "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    }, {
+      "question": "  In the year 1613, where was the English East India Company given permission to set up a factory (trading post)? [2006]    ",
+      "choices": [
+        "   Bangalore    "        , 
+        "     Madras  "            ,   
+        "   Masulipattam     "                  , 
+        "     Surat    "         
+               
+        ],
+      "number": 99,
+      "correct": 3
+    }, {
+      "question": " Which one of the following is the correct chronological order of the Afghan rulers to the throne of Delhi? [2006]  ",
+      "choices": [
+        "   Sikandar Shah-Ibrahim Lodi-Bahlol Khan Lodi    "        , 
+        "     Sikandar Shah-Bahlol Khan Lodi-Ibrahim Lodi  "            ,   
+        "    Bahlol Khan Lodi-Sikandar Shah-Ibrahim Lodi    "                  , 
+        "    Bahlol Khan Lodi-Ibrahim Lodi-Sikandar Shah      "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": "  Bhakta Tukaram was a contemporary of which Mughal emperor?   [2006]    ",
+      "choices": [
+        "   Babar    "        , 
+        "    Akbar   "            ,   
+        "    Jahangir    "                  , 
+        "    Aurangzeb     "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": "  In Indian history, who was Abdul Hamid Lahori? [2006]       ",
+      "choices": [
+        "   An important military commander during Akbar reign.      "        , 
+        "     An official historian ofthe reign of Shahjahan.   "            ,   
+        "    An important noble and confidant of Aurangzeb.   "                  , 
+        "    A chronicler and poet during the reign of Muhammad Shah.     "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    }, {
+      "question": " Where is the famous Vijaya Vittala temple having its 56 carved pillars emitting musical notes located?  [2007]    ",
+      "choices": [
+        "   Belur    "        , 
+        "    Bhadrachalam   "            ,   
+        "    Hampi    "                  , 
+        "     Srirangam    "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": "  During the time of which Mughal Emperor did the English East India Company establish its first factory in India?   [2008]   ",
+      "choices": [
+        "   Akbar    "        , 
+        "    Shahjahan   "            ,   
+        "     Jahangir   "                  , 
+        "    Aurangzeb     "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    }, {
+      "question": "  Where is the famous Virupaksha temple located? [2009]   ",
+      "choices": [
+        "    Bhadrachalam   "        , 
+        "    Chidambaram   "            ,   
+        "     Hampi   "                  , 
+        "    Srikalahasti    "         
+               
+        ],
+      "number": 99,
+      "correct": 2
+    }, {
+      "question": "With whose permission did the English set up their first factory in Surat?   [2009]     ",
+      "choices": [
+        "    Akbar   "        , 
+        "      Jahangir  "            ,   
+        "      Shahjahan  "                  , 
+        "     Aurangzeb    "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    }, {
+      "question": " Among the following, who was not a proponent of Bhakti cult ? [2010]      ",
+      "choices": [
+        "    Nagarjuna   "        , 
+        "   Tukaram    "            ,   
+        "    Tyagaraja    "                  , 
+        "    Vallabhacharya     "         
+               
+        ],
+      "number": 99,
+      "correct": 0
+          }, {
+      "question": "  Consider the following Bhakti Saints: l. Dadu Dayal 2 Guru Nanak 3. Tyagaraja [2013-1] Who among the above was/were preaching when the Lodi dynasty fell and Babur took over? ",
+      "choices": [
+        "    1 and 3    "        , 
+        "    2 only    "            ,   
+        "      2 and 3   "                  , 
+        "     1 and 2       "         
+               
+        ],
+      "number": 99,
+      "correct": 1
+    }, 
+    {
       "question": "In Medival India, the designations 'Mahattara' and 'Pattakila' were used for [UPSC 2014  ]",
       "choices": [
-        "(a) military officers"        , 
-        "(b) village officers"            ,   
+        " military officers"        , 
+        " village officers"            ,   
         "c) specialists in Vedic rituals"                  , 
-        "(d) chiefs of craft guilds"         
+        " chiefs of craft guilds"         
                
         ],
       "number": 99,
@@ -17,9 +601,9 @@
       "question": "Ibadat Khana at Fatehpur Sikri was ___________.     [UPSC 2015  ]",
       "choices": [
         "a) the mosque for the use of Royal Family "        , 
-        "((b) Akbar's private prayer chamber."            ,   
-        "(c) the hall in which Akbar held discussions with scholars of various religions."                  , 
-        "(d) the room in which the nobles belonging in different religions gathered to discuss religious affairs."         
+        "( Akbar's private prayer chamber."            ,   
+        " the hall in which Akbar held discussions with scholars of various religions."                  , 
+        " the room in which the nobles belonging in different religions gathered to discuss religious affairs."         
                
         ],
       "number": 99,
@@ -27,10 +611,10 @@
     }, {
       "question": "Consider the following rivers : \u23E9 1. Barak \u23E9 2. Lohit \u23E9 3. Subansiri.   \u23E9 Which of the above flows/flow through Arunachal Pradesh ? [UPSC 2015  ]",
       "choices": [
-        "(a) 1 only"        , 
-        "(b) 2 and 3 only"            ,   
-        "(c) 1 and 3 only"                  , 
-        "(d) 1, 2 and 3"         
+        " 1 only"        , 
+        " 2 and 3 only"            ,   
+        " 1 and 3 only"                  , 
+        " 1, 2 and 3"         
                
         ],
       "number": 99,
@@ -38,8 +622,8 @@
     }, {
       "question": "With reference to the cultural history of medieval India, consider the following statements: \u23E9 1. Siddhas (Sitars) of Tamil region were monotheistic and condemned idolatry. \u23E9 2. Lingayats of Kannada region questioned the theory of rebirth and rejected the caste hierarchy. \u23E9 Which of the statements given above is/are correct?    [UPSC 2016 ]",
       "choices": [
-        "(a) 1 only"        , 
-        "(b) 2 only"            ,   
+        " 1 only"        , 
+        " 2 only"            ,   
         " c) Both 1 and 2"                  , 
         "d) Neither 1 nor 2"         
                
@@ -49,10 +633,10 @@
     }, {
       "question": "Banjaras during the medieval period of Indian history were generally __________.     [UPSC 2016 ]",
       "choices": [
-        "(a) agriculturists"        , 
-        "(b) warriors"            ,   
-        "(c) weavers"                  , 
-        "(d) traders"         
+        " agriculturists"        , 
+        " warriors"            ,   
+        " weavers"                  , 
+        " traders"         
                
         ],
       "number": 99,
@@ -60,10 +644,10 @@
     }, {
       "question": "Which one of the following was a very important seaport in the Kakatiya kingdom?  [UPSC 2017 ]",
       "choices": [
-        "(a) Kakinada"        , 
-        "(b) Motupalli "            ,   
-        " (c) Machilipatnam (Masulipatnam)"                  , 
-        "(d) Nelluru "         
+        " Kakinada"        , 
+        " Motupalli "            ,   
+        "  Machilipatnam (Masulipatnam)"                  , 
+        " Nelluru "         
                
         ],
       "number": 99,
@@ -71,10 +655,10 @@
     }, {
       "question": "With reference to the religious history of India, consider the following statements: \u23E9 1. Sautrantika and Sammitiya were the sects of Jainism. \u23E9 2. Sarvastivadin held that the constituents of phenomena were not wholly momentary, but existed forever in a latent form. \u23E9 Which of the statements given above is/are correct?  [UPSC 2017 ]",
       "choices": [
-        "(a) 1 only"        , 
-        " (b) 2 only "            ,   
-        "(c) Both 1 and 2"                  , 
-        "(d) Neither 1 nor 2 "         
+        " 1 only"        , 
+        "  2 only "            ,   
+        " Both 1 and 2"                  , 
+        " Neither 1 nor 2 "         
                
         ],
       "number": 99,
@@ -82,10 +666,10 @@
     }, {
       "question": "With reference to Mughal India, what is/are the difference/differences between Jagirdar and Zamindar? \u23E9 1. Jagirdars were holders or land assignments in lieu of judicial and police duties, whereas Zamindars were holders of revenue rights without obligation to perform any duty other than revenue collection. \u23E9 2. Land assignments to Jagirdars were hereditary and revenue rights or Zamindars were not hereditary. \u23E9 Select the correct answer using the code given below.     [UPSC 2019  ]",
       "choices": [
-        "(a) 1 only"        , 
-        "(b) 2 only"            ,   
-        "(c) Both 1 and 2"                  , 
-        "(d) Neither 1 nor 2"         
+        " 1 only"        , 
+        " 2 only"            ,   
+        " Both 1 and 2"                  , 
+        " Neither 1 nor 2"         
                
         ],
       "number": 99,
@@ -93,10 +677,10 @@
     }, {
       "question": "Consider the following statements: \u23E9 1. Saint Nimbarka was a contemporary of Akbar. \u23E9 2. Saint Kabir was greatly influenced by Shaikh Ahmad Sirhindi. \u23E9 Which of the statements given above is/are correct?    [UPSC  2019 ]",
       "choices": [
-        "(a) 1 only"        , 
-        "(b) 2 only"            ,   
-        " (c) Both 1 and 2"                  , 
-        "(d) Neither 1 nor 2"         
+        " 1 only"        , 
+        " 2 only"            ,   
+        "  Both 1 and 2"                  , 
+        " Neither 1 nor 2"         
                
         ],
       "number": 99,
@@ -104,10 +688,10 @@
     }, {
       "question": "With reference to Mian Tansen, which one of the following statements is not correct?     [UPSC 2019 ]",
       "choices": [
-        "(a) Tansen was the title given to him by Emperor Akbar."        , 
-        "(b) Tansen composed Dhrupada on Hindu gods and goddesses."            ,   
-        "(c) Tansen composed songs on his patrons"                  , 
-        "(d) Tansen invented many Ragas."         
+        " Tansen was the title given to him by Emperor Akbar."        , 
+        " Tansen composed Dhrupada on Hindu gods and goddesses."            ,   
+        " Tansen composed songs on his patrons"                  , 
+        " Tansen invented many Ragas."         
                
         ],
       "number": 99,
@@ -115,10 +699,10 @@
     }, {
       "question": "Who among the following Mughal Emperors shifted emphasis from illustrated manuscripts to album and individual portrait?    [UPSC 2019 ]",
       "choices": [
-        "(a) Humayun"        , 
-        "(b) Akbar"            ,   
-        " (c) Jahangir"                  , 
-        "(d) Shah Jahan"         
+        " Humayun"        , 
+        " Akbar"            ,   
+        "  Jahangir"                  , 
+        " Shah Jahan"         
                
         ],
       "number": 99,
@@ -126,10 +710,10 @@
     }, {
       "question": "Which of the following phrases defines the nature of the Hundi' generally referred to in the sources of the post- Harsha period?      [UPSC 2020  ]",
       "choices": [
-        "(a) An advisory issued by the king to his subordinates  "        , 
-        " (b) A diary to be maintained for daily accounts "            ,   
-        " (c) A bill of exchange "                  , 
-        "  (d) An order from the feudal lord to his subordinates"         
+        " An advisory issued by the king to his subordinates  "        , 
+        "  A diary to be maintained for daily accounts "            ,   
+        "  A bill of exchange "                  , 
+        "   An order from the feudal lord to his subordinates"         
                
         ],
       "number": 99,
@@ -138,10 +722,10 @@
     {
       "question": "Consider the following statements : \u23E9 1. It was during the reign of Iltutmish that Chengiz Khan reached the Indus in pursuit of the fugitive Khwarezm prince. \u23E9 2. It was during the reign of Muhammad bin Tughlug that Taimur occupied Multan and crossed the Indus. \u23E9 3. It was during the reign of Deva Raya II of Vijayanagara Empire that Vasco da Gama reached the coast of Kerala. \u23E9 Which of the statements given above is/are correct?     [UPSC 2021  ]",
       "choices": [
-        "(a) 1 only  "        , 
-        "(b) 1 and 2  "            ,   
-        " (c) 3 only "                  , 
-        "(d) 2 and 3   "         
+        " 1 only  "        , 
+        " 1 and 2  "            ,   
+        "  3 only "                  , 
+        " 2 and 3   "         
                
         ],
       "number": 99,
@@ -149,10 +733,10 @@
     },{
       "question": "With reference to medieval India, which one of the following is the correct sequence in ascending order in terms of size?      [UPSC 2021  ]",
       "choices": [
-        "(a) Paragana —Sarkar-Suba  "        , 
-        " (b) Sarkar— Paragana-Suba "            ,   
-        " (c) Suba — Sarkar-Paragana "                  , 
-        " (d) Paragana — Suba—Sarkar "         
+        " Paragana —Sarkar-Suba  "        , 
+        "  Sarkar— Paragana-Suba "            ,   
+        "  Suba — Sarkar-Paragana "                  , 
+        "  Paragana — Suba—Sarkar "         
                
         ],
       "number": 99,
@@ -160,10 +744,10 @@
     },{
       "question": "With reference to Indian history, which of the following statements is/are correct? \u23E9 1. The Nizamat of Arcot emerged out of Hyderabad State. \u23E9 2. The Mysore Kingdom emerged out of Vijayanagara Empire. \u23E9 3. Rohilkhand Kingdom was formed out of the territories occupied by Ahmad Shah Durrani. \u23E9 Select the correct answer using the code given below.     [UPSC 2021  ]",
       "choices": [
-        " (a) 1 and 2 "        , 
-        " (b) 2 only "            ,   
-        " (c) 2 and 3  "                  , 
-        " (d) 3 only "         
+        "  1 and 2 "        , 
+        "  2 only "            ,   
+        "  2 and 3  "                  , 
+        "  3 only "         
                
         ],
       "number": 99,
@@ -171,10 +755,10 @@
     },{
       "question": "In medieval India, the term 'Fanam' referred to ________________.      [UPSC 2022  ]",
       "choices": [
-        "(a) Clothing  "        , 
-        " (b) Coins "            ,   
-        " (c) Ornaments "                  , 
-        " (d) Weapons "         
+        " Clothing  "        , 
+        "  Coins "            ,   
+        "  Ornaments "                  , 
+        "  Weapons "         
                
         ],
       "number": 99,
@@ -182,10 +766,10 @@
     },{
       "question": "With reference to Indian history, consider the following statements: \u23E91. The first Mongol invasion of India happened during the reign of Jalal-ud-din Khalji. \u23E92. During the reign of Ala-ud-din Khalji, one Mongol assault marched up to Delhi and besieged the city. \u23E93. Muhammad-bin- Tughlag temporarily lost portions of north- west of his kingdom to Mongols. \u23E9Which of the statements given above is/are correct?      [UPSC 2022  ]",
       "choices": [
-        "(a) 1 and 2  "        , 
-        "(b) 2 only  "            ,   
-        " (c) 1 and 3 "                  , 
-        "(d) 3 only  "         
+        " 1 and 2  "        , 
+        " 2 only  "            ,   
+        "  1 and 3 "                  , 
+        " 3 only  "         
                
         ],
       "number": 99,
@@ -193,10 +777,10 @@
     },{
       "question": "With reference to Indian history, who of the following were known as 'Kulah- Daran'?   [UPSC 2022  ]",
       "choices": [
-        "(a) Arab merchants  "        , 
-        "(b) Qalandars  "            ,   
-        "  (c) Persian calligraphists "                  , 
-        "  (d) Sayyids  "         
+        " Arab merchants  "        , 
+        " Qalandars  "            ,   
+        "   Persian calligraphists "                  , 
+        "   Sayyids  "         
                
         ],
       "number": 99,
@@ -204,10 +788,10 @@
     },{
       "question": "Who among the following rulers of Vijayanagara Empire constructed a large dam across Tungabhadra River and a canal-cum-aqueduct several kilometres long from the river to the capital city?     [UPSC 2023  ]",
       "choices": [
-        "(a) Devaraya I "        , 
-        "(b) Mallikarjuna  "            ,   
-        "(c) Vira Vijaya  "                  , 
-        " (d) Virupaksha  "         
+        " Devaraya I "        , 
+        " Mallikarjuna  "            ,   
+        " Vira Vijaya  "                  , 
+        "  Virupaksha  "         
                
         ],
       "number": 99,
@@ -215,10 +799,10 @@
     },{
       "question": "Who among the following rulers of Vijayanagara Empire constructed a large dam across Tungabhadra River and a canal-cum-aqueduct several kilometres long from the river to the capital city?    [UPSC 2023  ]",
       "choices": [
-        " (a) Devaraya I "        , 
-        "  (b) Mallikarjuna"            ,   
-        "(c) Vira Vijaya  "                  , 
-        " (d) Virupaksha   "         
+        "  Devaraya I "        , 
+        "   Mallikarjuna"            ,   
+        " Vira Vijaya  "                  , 
+        "  Virupaksha   "         
                
         ],
       "number": 99,
@@ -226,10 +810,10 @@
     },{
       "question": "Who among the following rulers of medieval Gujarat surrendered Diu to Portuguese?    [UPSC 2023  ]",
       "choices": [
-        " (a) Ahmad Shah  "        , 
-        " (b) Mahmud Begarha "            ,   
-        " (c) Bahadur Shah  "                  , 
-        "(d) Muhammad Shah  "         
+        "  Ahmad Shah  "        , 
+        "  Mahmud Begarha "            ,   
+        "  Bahadur Shah  "                  , 
+        " Muhammad Shah  "         
                
         ],
       "number": 99,

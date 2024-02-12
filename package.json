@@ -1,11 +1,10 @@
 {
-  "name": "civils.app",
-  "version": "0.0.1",
+  "name": "upsc.study",
   "private": true,
   "scripts": {
-    "dev": "vite dev --port 4000",
+    "d": "vite dev --port 4000",
     "build": "vite build",
-    "postbuild": "node generate-sitemap.mjs --domain https://civils.app",
+    "postbuild": "node generate-sitemap.mjs --domain https://upsc.study",
     "preview": "vite preview",
     "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
     "check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
@@ -16,30 +15,30 @@
     "@sveltejs/adapter-vercel": "^3.1.0",
     "@sveltejs/kit": "^1.30.3",
     "@tailwindcss/forms": "^0.5.7",
-    "@typescript-eslint/eslint-plugin": "^6.18.1",
-    "@typescript-eslint/parser": "^6.18.1",
-    "autoprefixer": "^10.4.16",
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "@typescript-eslint/parser": "^6.21.0",
+    "autoprefixer": "^10.4.17",
     "eslint": "^8.56.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-svelte": "^2.35.1",
-    "postcss": "^8.4.33",
+    "postcss": "^8.4.35",
     "postcss-load-config": "^4.0.2",
-    "prettier": "^3.1.1",
+    "prettier": "^3.2.5",
     "prettier-plugin-svelte": "^3.1.2",
     "prettier-plugin-tailwindcss": "^0.5.11",
-    "svelte": "^4.2.8",
-    "svelte-check": "^3.6.2",
+    "svelte": "^4.2.10",
+    "svelte-check": "^3.6.4",
     "svelte-sitemap": "^2.6.0",
     "tailwindcss": "^3.4.1",
     "tslib": "^2.6.2",
     "typescript": "^5.3.3",
-    "vite": "^4.4.12"
+    "vite": "^4.5.2"
   },
   "type": "module",
   "dependencies": {
     "@fontsource-variable/outfit": "^5.0.8",
     "@sveltejs/adapter-node": "^1.3.1",
     "just-group-by": "^2.2.0",
-    "svelte-confetti": "^1.3.1"
+    "svelte-confetti": "^1.3.2"
   }
 }

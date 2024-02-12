@@ -8,6 +8,8 @@
 
 
 
-<!-- <Header/>  -->
+<Header/> 
+
 <slot />
+
 <Footer />

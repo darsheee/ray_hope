@@ -105,22 +105,17 @@
 {/if}
 
 <svelte:head>
-  <title>{quizName} | WebQuiz</title>
+  <title>{quizName} | upsc.study</title>
   <meta name="og:title" content={quizName} />
 </svelte:head>
 
 <main class="mx-auto max-w-prose">
-  <a href="/" class="mb-2 block font-medium underline print:hidden">&larr; Back Home</a>
+  <a href="/" class="mb-2 my-20 block font-medium underline print:hidden">&larr; Back Home</a>
   <h1 class="text-3xl font-bold">
     {quizName}
   </h1>
   <div class="hidden break-before-avoid opacity-75 print:block">
-    <!-- <p>
-      WebQuiz: a project by <a href="https://bswanson.dev"
-        ><img src="https://bswanson.dev/favicon.svg" width={16} height={16} alt="" class="inline" />
-        Brendan Swanson</a>
-    </p>
-    <p class="underline">https://webquiz.bswanson.dev/</p> -->
+    
   </div>
   <p class="mb-8">{questions.length} questions</p>
 

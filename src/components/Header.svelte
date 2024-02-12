@@ -1,34 +1,17 @@
-<header class=" bg-primary-800 dark:bg-neutral-900 print:hidden">
-  <div class="flex justify-center  ">
-    <nav class="self-center w-full max-w-7xl  ">
-        <div class="flex flex-col lg:flex-row justify-around items-center ">
-            <h1 class=" pl-5 py-4 text-lg font-sans font-bold">Civils.app</h1>
-            <ul class="hidden lg:flex items-center text-[18px] font-semibold pl-32">
-                <li class="hover:underline  underline-offset-4 decoration-2 decoration-white py-2 rounded-lg px-5">
-                    <a href="/">Home</a></li>
-                <li class="hover:underline underline-offset-4 decoration-2 decoration-white py-2 rounded-lg px-5"><a
-                        href="/">Contact</a></li>
-                <li class="hover:underline underline-offset-4 decoration-2 decoration-white py-2 rounded-lg px-5"><a
-                        href="/">Services</a></li>
-                <li class="hover:underline underline-offset-4 decoration-2 decoration-white py-2 rounded-lg px-5"><a
-                        href="/">About</a></li>
-                <li class="hover:underline underline-offset-4 decoration-2 decoration-white py-2 rounded-lg px-5"><a
-                        href="/">Pricing</a></li>
-            </ul>
-            <div class=" text-center text-base pr-5  inline-flex"> <a href="/"
-                    class="w-8 h-8 inline-block rounded-full pt-[6px] hover:text-blue-500"><i
-                        class="fa fa-twitter"></i></a> <a href="/"
-                    class="w-8 h-8 inline-block rounded-full pt-[5px] hover:text-blue-500"><i
-                        class="fa fa-instagram"></i></a> <a href="/"
-                    class="w-8 h-8 inline-block rounded-full pt-[5px] hover:text-blue-500"><i
-                        class="fa fa-facebook"></i></a> <a href="/"
-                    class="w-8 h-8 inline-block rounded-full pt-[5px] hover:text-blue-500"><i
-                        class="fa fa-google"></i></a> <a href="/"
-                    class="w-8 h-8 inline-block rounded-full pt-[5px] hover:text-blue-500"><i
-                        class="fa fa-linkedin"></i></a> </div>
-        </div>
+<header class="text-gray-600 bg-white body-font">
+  <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
+    <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-10 h-10 text-white p-2 bg-red-500 rounded-full" viewBox="0 0 24 24">
+        <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
+      </svg>
+      <span class="ml-3 font-serif font-extrabold bg-gradient-to-r from-pink-500 to-rose-500 bg-clip-text text-transparent text-xl">upsc.study</span>
+    </a>
+    <nav class="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-l md:border-gray-400	flex flex-wrap items-center text-base justify-center">
+      <a class="mr-5 cursor-pointer hover:text-gray-900">First Link</a>
+      <a class="mr-5 cursor-pointer hover:text-gray-900">Second Link</a>
+      <a class="mr-5 cursor-pointer hover:text-gray-900">Third Link</a>
+      <a class="mr-5 cursor-pointer hover:text-gray-900">Fourth Link</a>
     </nav>
-</div>
-
-
+   
+  </div>
 </header>
