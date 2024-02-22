@@ -13,13 +13,7 @@
 <svelte:head>
   <title>upsc.study</title>
   <meta name="og:title" content="upsc.study" />
-  <meta name='twitter:image' content='https://upsc.study/static/og.png'>
-  <meta name="og:image" content="https://upsc.study/static/og.png">
-  <meta property="og:image" content="https://upsc.study/static/og.png">
   
-
-
-
 </svelte:head>
 
 <main class="mx-auto max-w-3xl">
