@@ -14,7 +14,7 @@
   <title>upsc.study</title>
   <meta name="og:title" content="upsc.study" />
   <meta
-  property="og:image"  content="%sveltekit.assets%/og-image.png" />
+  property="og:image"  content="https://geoffrich.net/images/profile.jpg" />
 </svelte:head>
 
 <main class="mx-auto max-w-3xl">
