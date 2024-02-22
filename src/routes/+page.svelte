@@ -13,6 +13,8 @@
 <svelte:head>
   <title>upsc.study</title>
   <meta name="og:title" content="upsc.study" />
+  <meta
+  property="og:image"  content="%sveltekit.assets%/og-image.png" />
 </svelte:head>
 
 <main class="mx-auto max-w-3xl">
