@@ -52,7 +52,7 @@
     {/each}
   </section> -->
 
-   <h2 class="mb-2 mt-6 text-xl font-bold"> Polity Questions</h2>
+   <h2 class="mb-2 mt-6 text-xl font-bold"> Polity Workbook</h2>
   <section class="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
     {#each crashs as crash}
       <QuizCard name={collections[crash].displayName} slug={crash} />
