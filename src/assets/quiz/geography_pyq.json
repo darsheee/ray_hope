@@ -15,7 +15,7 @@
     },
     {
       "number": 99,
-      "question": "Which one Of the following does not belong to biosphere reserves set-up so far? [1995]   ",
+      "question": "Which one of the following does not belong to biosphere reserves set-up so far? [1995]   ",
       "choices": [
         "  Great Nicobar   ",
         "   Sunderbans   ",
@@ -281,10 +281,10 @@
       "number": 99,
       "question": " \n Assertion  : Unlike temperate forests, the tropical rain forests, if cleared, can yield productive farmland that can support intensive agriculture for several years even without chemical fertilizers. \n Reason (R) : The primary productivity of the tropical rain forest is very high when compared to that of temperate forests. [2003]    ",
       "choices": [
-        "  ( a ) Both A and R are individually true and R is the correct explanation of A.    ",
-        " ( b )    Both A and R are individually true but R is not the correct explanation of A     ",
-        " ( c )  A is true but R is false  ",
-        " ( d )  A is false but R is true    "
+        "   Both A and R are individually true and R is the correct explanation of A.    ",
+        "     Both A and R are individually true but R is not the correct explanation of A     ",
+        "   A is true but R is false  ",
+        "   A is false but R is true    "
       ],
       "correct": 3
     },
@@ -292,9 +292,9 @@
       "number": 99,
       "question": " \n Assertion  : Areas Ying Wit In Ive to elg t egrees latitude on either side of the equator receive rainfall throughout the year. \n Reason (R) : High temperatures and high humidity cause convectional rain to fall mostly in the afternoons near the [2003] equator.     ",
       "choices": [
-        " (a ) Both A and R are individually true and R is the correct explanation of A    ",
+        "  Both A and R are individually true and R is the correct explanation of A    ",
         "  Both A and R are individually true but R is not the correct explanation of A    ",
-        " ( c)  A is true but R is false  ",
+        "   A is true but R is false  ",
         "    A is false but R is true  "
       ],
       "correct": 0
@@ -327,8 +327,8 @@
       "choices": [
         "  Both A and R are individually true and R is the correct explanation ofA   ",
         "    Both A and R are individually true but R is not the correct explanation of A    ",
-        " (c ) A is true but R is false ",
-        "(d )   A is false but R is true "
+        " A is true but R is false ",
+        "   A is false but R is true "
       ],
       "correct": 3
     },
@@ -347,9 +347,9 @@
       "number": 99,
       "question": " Assertion : The same face of the moon is always  presented to the earth. Reason (R) :  The moon rotates about its own axis in 23 and half days which is about the same time that it takes to orbit the earth. [2005]    ",
       "choices": [
-        "( a) Both A and R are true and R is the correct explanation of A    ",
-        " (b ) Both A and R are true but R is NOT a correct explanation of A   ",
-        " (c ) A is true but R is false ",
+        " Both A and R are true and R is the correct explanation of A    ",
+        "  Both A and R are true but R is NOT a correct explanation of A   ",
+        " A is true but R is false ",
         " ( d) A is false but R is true  "
       ],
       "correct": 2
@@ -391,9 +391,9 @@
       "number": 99,
       "question": " Which one of the following pairs is not correctly matched?  [2005]      ",
       "choices": [
-        "( a)   Bahamas: Nassau  ",
-        " (b )   Costa Rica: San Jose  ",
-        "(c )  Nicaragua: Balmopan ",
+        "   Bahamas: Nassau  ",
+        "    Costa Rica: San Jose  ",
+        "  Nicaragua: Balmopan ",
         " Dominican Republic: Santo Domingo  "
       ],
       "correct": 2
