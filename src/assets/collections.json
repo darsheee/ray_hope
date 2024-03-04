@@ -16,6 +16,31 @@
     "displayName": "Complete APES Review",
     "include": ["apes_rev1", "apes_rev2", "apes_rev3", "apes_f22"]
   },
+
+
+"crash_1": {
+  "displayName": "Chapters 1-2",
+  "include": [
+    "apes_ch1",
+    "apes_ch2"
+  ]
+},
+"crash_2": {
+  "displayName": "Chapters 3-4",
+  "include": [
+    "apes_ch3",
+    "apes_ch4"
+  ]
+},
+"crash_3": {
+  "displayName": "Chapters 5-6",
+  "include": [
+    "apes_ch5",
+    "apes_ch6"
+  ]
+},
+
+  
   "everything": {
     "displayName": "Everything",
     "include": [
