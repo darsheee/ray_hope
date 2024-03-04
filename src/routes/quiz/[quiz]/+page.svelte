@@ -139,7 +139,7 @@
           resetQuiz();
           showAnswers = false;
           setTimeout(() => scrollToTop());
-        }}>Reset Quiz</Button>
+        }}>Reset Test</Button>
     </Scores>
   {/if}
 
