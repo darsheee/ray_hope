@@ -1,7 +1,9 @@
 {
-  "name": "upsc.study",
+  "name": "ias.shiksha",
   "description": "Online quizzes to help you study for UPSC Civils exams and the Prelims exam.",
-  "categories": ["education"],
+  "categories": [
+    "education"
+  ],
   "display": "fullscreen",
   "icons": [
     {
