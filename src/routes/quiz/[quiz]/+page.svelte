@@ -105,18 +105,16 @@
 {/if}
 
 <svelte:head>
-  <title>{quizName} | upsc.study</title>
+  <title>{quizName} | Ias.Shiksha</title>
   <meta name="og:title" content={quizName} />
 </svelte:head>
 
 <main class="mx-auto max-w-prose">
-  <a href="/" class="mb-2 my-2 block font-medium underline print:hidden">&larr; Back Home</a>
+  <a href="/" class="my-2 mb-2 block font-medium underline print:hidden">&larr; Back Home</a>
   <h1 class="text-xl font-bold">
     {quizName}
   </h1>
-  <div class="hidden break-before-avoid opacity-75 print:block">
-    
-  </div>
+  <div class="hidden break-before-avoid opacity-75 print:block"></div>
   <p class="mb-2">{questions.length} questions</p>
 
   {#if recoveredAnswers}
@@ -173,7 +171,7 @@
     {/if}
   {/each}
 
-  <div class="flex items-center justify-center gap-4 print:hidden sm:justify-end">
+  <div class="flex items-center justify-center gap-4 sm:justify-end print:hidden">
     <a href="/" class="mr-auto hidden font-medium underline sm:block">&larr; Back Home</a>
     <button
       on:click={(e) => {

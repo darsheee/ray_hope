@@ -19,7 +19,7 @@
 
 <svelte:head>
   <title>Ias.Shiksha</title>
-  <meta name="og:title" content="upsc.study" />
+  <meta name="og:title" content="Ias.Shiksha" />
   
 </svelte:head>
 

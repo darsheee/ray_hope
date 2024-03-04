@@ -1,10 +1,10 @@
 {
-  "name": "upsc.study",
+  "name": "ias.shiksha",
   "private": true,
   "scripts": {
     "d": "vite dev --port 4000",
     "build": "vite build",
-    "postbuild": "node generate-sitemap.mjs --domain https://upsc.study",
+    "postbuild": "node generate-sitemap.mjs --domain https://ias.shiksha",
     "preview": "vite preview",
     "check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
     "check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
