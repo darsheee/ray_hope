@@ -45,12 +45,12 @@
     <QuizCard class="sm:col-span-2" name="Everything" slug="everything" /> -->
   </section>
 
-  <h2 class="mb-2 mt-6 text-xl font-bold">By Unit</h2>
+  <!-- <h2 class="mb-2 mt-6 text-xl font-bold">By Unit</h2>
   <section class="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
     {#each units as unit}
       <QuizCard name={collections[unit].displayName} slug={unit} />
     {/each}
-  </section>
+  </section> -->
 
    <h2 class="mb-2 mt-6 text-xl font-bold"> Polity Questions</h2>
   <section class="grid grid-cols-2 gap-4 sm:grid-cols-3 md:grid-cols-4">
