@@ -171,7 +171,7 @@
     {/if}
   {/each}
 
-  <div class="flex items-center justify-center gap-4 sm:justify-end print:hidden">
+  <div class="flex items-center justify-center gap-4 p-5 sm:justify-end print:hidden">
     <a href="/" class="mr-auto hidden font-medium underline sm:block">&larr; Back Home</a>
     <button
       on:click={(e) => {

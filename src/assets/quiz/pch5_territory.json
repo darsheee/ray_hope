@@ -1,0 +1,17 @@
+{
+  "id": "pch5_territory",
+  "displayName": "Union & its Territories ",
+  "questions": [
+    {
+      "number": 20,
+      "question": " ",
+      "choices": [
+        "  ",
+        " ",
+        " ",
+        " "
+      ],
+      "correct": 3
+    }
+  ]
+}

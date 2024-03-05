@@ -1,0 +1,28 @@
+{
+  "id": "pch4_preamble",
+  "displayName": "Preamble ",
+  "questions": [
+    {
+      "question": "  With reference to the system of checks and balances in the constitution, which of the following statements is correct?            ",
+      "choices": [
+        "   It enables the legislature to hold more power over the executive and the judiciary         ",
+        "  It is antithetical to the concept of division of powers in a political structure          ",
+        "  Article 13 is an example of the system of checks and balances in India.          ",
+        "Single party majority in the parliament strengthens the system of checks and balances.            "
+      ],
+      "number": 4,
+      "correct": 0
+    },
+    {
+      "number": 20,
+      "question": "hi ",
+      "choices": [
+        "  ",
+        " ",
+        " ",
+        " "
+      ],
+      "correct": 3
+    }
+  ]
+}
