@@ -52,8 +52,8 @@
       <QuizCard name={collections[crash].displayName} slug={crash} />
     {/each}
   </section> -->
-
-  <!-- <h2 class="mb-2 mt-6 text-xl font-bold">Polity Workbook</h2>
+<!-- 
+  <h2 class="mb-2 mt-6 text-xl font-bold">Polity Workbook</h2>
   <section class="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-4">
     <QuizCard name="Historical Background " slug="pch1_historical_background" />
     <QuizCard name="Constituent Assembly " slug="pch2_constitutent_assembly" />
@@ -64,7 +64,7 @@
 
     <!-- <QuizCard class="sm:col-span-2" name="Complete APES Review" slug="complete_review" />
     <QuizCard class="sm:col-span-2" name="Everything" slug="everything" /> -->
-  </section>
+  <!-- </section> -->
 
 
 
