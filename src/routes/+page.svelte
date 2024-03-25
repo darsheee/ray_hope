@@ -53,14 +53,14 @@
     {/each}
   </section> -->
 
-  <h2 class="mb-2 mt-6 text-xl font-bold">Polity Workbook</h2>
+  <!-- <h2 class="mb-2 mt-6 text-xl font-bold">Polity Workbook</h2>
   <section class="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-4">
     <QuizCard name="Historical Background " slug="pch1_historical_background" />
     <QuizCard name="Constituent Assembly " slug="pch2_constitutent_assembly" />
     <QuizCard name="Salient Features " slug="pch3_salient_features" />
     <QuizCard name="Preamble " slug="pch4_preamble" />
     <QuizCard name="Union & its Territory " slug="pch5_territory" />
-    <QuizCard name="Citizenship " slug="pch6_citizenship" />
+    <QuizCard name="Citizenship " slug="pch6_citizenship" /> -->
 
     <!-- <QuizCard class="sm:col-span-2" name="Complete APES Review" slug="complete_review" />
     <QuizCard class="sm:col-span-2" name="Everything" slug="everything" /> -->
